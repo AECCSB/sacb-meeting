@@ -1,5 +1,6 @@
 ---
 title: Organizers
+layout: default
 ---
 #### **About Us**
 

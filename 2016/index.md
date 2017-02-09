@@ -1,6 +1,6 @@
 ---
 title: Systems Approaches to Cancer Biology
-layout: page
+layout: default
 ---
 ## April 3-6, 2016
 

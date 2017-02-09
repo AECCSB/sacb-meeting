@@ -1,10 +1,6 @@
 ---
-id: 27
 title: Speakers
-date: 2015-08-21T01:33:03+00:00
-author: admin
-layout: page
-guid: http://www.sacbmeeting.org/?page_id=27
+layout: default
 ---
   * [Andrea Bild](http://pharmacy.utah.edu/pharmtox/faculty/bild.htm), University of Utah
   * [Anne-Lise Børresen-Dale](http://ous-research.no/borresen/), Oslo University
