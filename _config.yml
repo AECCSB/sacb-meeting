@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
+theme:
 
 title: SACB Meeting
 description: Systems Approaches to Cancer Biology
 
-exclude: 
+exclude:
   - README.md
   - Gemfile
