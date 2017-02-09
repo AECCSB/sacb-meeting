@@ -1,10 +1,5 @@
 ---
-id: 30
 title: Organizers
-date: 2015-08-21T01:33:45+00:00
-author: admin
-layout: page
-guid: http://www.sacbmeeting.org/?page_id=30
 ---
 #### **About Us**
 
