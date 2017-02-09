@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: SACB Meeting
 description: Systems Approaches to Cancer Biology
+
+exclude: README.md
