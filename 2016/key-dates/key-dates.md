@@ -1,19 +1,16 @@
 ---
-id: 12
 title: Key Dates
-date: 2015-08-21T01:22:50+00:00
-author: admin
-layout: page
-guid: http://www.sacbmeeting.org/?page_id=12
+layout: default
 ---
-&nbsp;
 
-#### Call for Abstracts: November 27, 2015
+**Note: This material is from 2016. Please go here for recent information.**
 
-#### Abstract Deadline:<span style="color: #ff0000;"> Extended to January 19</span>
+### Call for Abstracts: November 27, 2015
 
-#### Abstract Decisions Announced: February 19, 2016
+### Abstract Deadline:<span style="color: #ff0000;"> Extended to January 19</span>
 
-#### Registration Deadline: March 4, 2016
+### Abstract Decisions Announced: February 19, 2016
 
-#### Meeting: April 3-6, 2016
+### Registration Deadline: March 4, 2016
+
+### Meeting: April 3-6, 2016

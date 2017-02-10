@@ -1,18 +1,16 @@
 ---
-id: 51
-title: 'Registration &#038; Abstract Submission'
-date: 2015-08-22T16:11:17+00:00
-author: admin
-layout: page
-guid: http://www.sacbmeeting.org/?page_id=51
+title: Registration and Abstract Submission
+layout: default
 ---
+
+**Note: This material is from 2016. Please go here for recent information.**
+
 <span style="color: #ff0000;">Abstract decisions have been sent out. If you did not receive a decision please contact the organizers at a <a style="color: #ff0000;" href="mailto:csb-org@googlegroups.com">csb-org@googlegroups.com</a>.</span>
 
-<p style="text-align: left;">
-  Please note that abstract submission is separate from registration for the meeting. On-campus housing is limited, so we encourage you to register for the meeting as soon as possible. Registration can be canceled and refunded up to the registration deadline (<strong>March 4</strong>).
-</p>
 
-&nbsp;
+Please note that abstract submission is separate from registration for the meeting. On-campus housing is limited, so we encourage you to register for the meeting as soon as possible. Registration can be canceled and refunded up to the registration deadline (<strong>March 4</strong>).
+
+
 
 <p style="text-align: center;">
   <a class="scbb-button scbb-button-black" href="https://ws3.mbl.edu/iebms/reg/reg_p1_form.aspx?oc=10&#038;ct=STDCONF&#038;eventid=9086">Register for the meeting</a>
