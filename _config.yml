@@ -4,3 +4,7 @@ description: Systems Approaches to Cancer Biology
 exclude:
   - README.md
   - Gemfile
+
+sass:
+  sass_dir: assets/css
+  style: :compressed
