@@ -30,4 +30,6 @@ If you would like to sign up for email updates from the AECCSB, <a href="https:/
 
 ## Other pages from 2016
 
-[./key-dates](Key Dates)
+* [Key Dates](key-dates/)
+* [Registration and Abstract Submission](registration-abstract-submission/)
+* [Speakers](speakers/)
