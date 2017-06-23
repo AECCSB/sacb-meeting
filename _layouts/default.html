@@ -8,9 +8,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/pygment_trac.css' | relative_url }}">
     <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -19,9 +16,10 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <p class="view"><ul>
-          <li></li>
-          <li></li>
-          <li><a href="./organizers/">Organizers</a></li>
+          {% for link in site.data.links %}
+            <li><a href="{{ link.url }}" title="{{ link.title }}"
+            {% if page.title == link.title %}class="current-page"{% endif %}>{{ link.title }}</a></li>
+          {% endfor %}
         </ul></p>
 
       </header>
@@ -31,7 +29,7 @@
 
       </section>
       <footer>
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">Site source</a></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
