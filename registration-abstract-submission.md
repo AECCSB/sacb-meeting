@@ -1,5 +1,7 @@
-REGISTRATION & ABSTRACT SUBMISSION
-==================================
+---
+title: Registration & Abstract Submission
+layout: page
+---
 
 **Check back soon for information on 2018.**
 

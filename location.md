@@ -1,5 +1,6 @@
 ---
 title: Location
+layout: page
 ---
 The conference will take place at the [Marine Biological Laboratory](http://www.mbl.edu/conferences/) in Woods Hole, Massachusetts, approximately 75 miles from the Boston Logan airport.
 

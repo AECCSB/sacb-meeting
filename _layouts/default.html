@@ -1,38 +1,15 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title }}</title>
+<!DOCTYPE html>
+<html lang="en-us">
 
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/pygment_trac.css' | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+  {% include head.html %}
 
-        <p class="view"><ul>
-          {% for link in site.data.links %}
-            <li><a href="{{ link.url | relative_url }}" title="{{ link.title }}"
-            {% if page.title == link.title %}class="current-page"{% endif %}>{{ link.title }}</a></li>
-          {% endfor %}
-        </ul></p>
+  <body class="theme-base-0d">
 
-      </header>
-      <section>
+    {% include sidebar.html %}
 
+    <div class="content container">
       {{ content }}
-
-      </section>
-      <footer>
-        <p class="view"><a href="{{ site.github.repository_url }}">Site source</a></p>
-      </footer>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
   </body>
 </html>

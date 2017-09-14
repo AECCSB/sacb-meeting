@@ -1,10 +1,21 @@
-title: SACB Meeting
-description: Systems Approaches to Cancer Biology
+title:            SACB Meeting
+tagline:          Tag
+description:      Systems Approaches to Cancer Biology
+baseurl:          /
+url:              https://sacbmeeting.org
 
 exclude:
   - README.md
   - Gemfile
 
 sass:
-  sass_dir: assets/css
+  sass_dir: public/css
   style: :compressed
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
