@@ -12,16 +12,34 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 
 #### Organizing Committee
 
-  * Aaron Meyer
+- Brian Joughin
+- Kathleen Wilkie
+- Elana Furtig
+- Sara Gosline
+- Marc Hafner
+- Ayesha Shahajan-Haq
+- Tenley Archer
+- Stephen Piccolo
+- Afshin Beheshti
+- Stacey Finley
+
+<!--  * Aaron Meyer
   * Brian Joughin
   * Marc Hafner
   * Sara Gosline
   * Stephen Piccolo
   * Shannon Hughes
   * Erin Wetzel
+-->
 
 #### Conference Chairs
 
+- [Doug Lauffenburger](http://web.mit.edu/dallab/)
+- [Sylvia Plevritis](http://med.stanford.edu/plevritis.html)
+- [Sandy Anderson](https://labpages.moffitt.org/andersona/)
+
+<!--
   * Douglas Lauffenburger
   * Elaine Mardis
   * Joe Gray
+-->

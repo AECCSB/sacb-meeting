@@ -11,6 +11,3 @@ exclude:
 sass:
   sass_dir: public/css
   style: :compressed
-
-# Dependencies
-highlighter:      pygments
