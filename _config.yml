@@ -13,5 +13,4 @@ sass:
   style: :compressed
 
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
