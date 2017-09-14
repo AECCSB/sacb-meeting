@@ -15,7 +15,3 @@ sass:
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
