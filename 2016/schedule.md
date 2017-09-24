@@ -1,7 +1,10 @@
 ---
-title: Schedule
+title: 2016 Schedule
 layout: page
 ---
+
+**Note this is the 2016 schedule. You can see the current meeting schedule when available [here](/schedule.html).**    
+
 Invited talks are limited to 30 minutes with 10 minutes for questions. Selected talks will be limited to 12 minutes with 3 minutes for questions.
 
 ## Sunday, April 3rd, 2016

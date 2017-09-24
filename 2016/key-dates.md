@@ -7,7 +7,7 @@ layout: default
 
 ### Call for Abstracts: November 27, 2015
 
-### Abstract Deadline:<span style="color: #ff0000;"> Extended to January 19</span>
+### Abstract Deadline: Extended to January 19
 
 ### Abstract Decisions Announced: February 19, 2016
 

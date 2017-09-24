@@ -1,6 +1,12 @@
 - url: /
   title: /
 
+- url: /schedule.html
+  title: Schedule
+
+- url: /registration-abstract-submission.html
+  title: Registration & Abstract Submission
+
 - url: /organizers.html
   title: Organizers
 
