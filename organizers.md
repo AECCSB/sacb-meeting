@@ -10,6 +10,12 @@ The Association of Early Career Cancer Systems Biologists (AECCSB) is an organi
 
 The AECCSB mission is to foster, promote and advocate for cancer systems biology and the needs of the researchers in the field. We do so by sharing information about the field and events, and fostering community and collaboration amongst our members. Our current aim is to host a bi-annual meeting in Cancer Systems Biology. The long-term goal of the AECCSB is the development of a Cancer Systems Biology Society.
 
+#### Conference Chairs
+
+- [Doug Lauffenburger](http://web.mit.edu/dallab/)
+- [Sylvia Plevritis](http://med.stanford.edu/plevritis.html)
+- [Sandy Anderson](https://labpages.moffitt.org/andersona/)
+
 #### Organizing Committee
 
 - Brian Joughin
@@ -22,24 +28,3 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 - Stephen Piccolo
 - Afshin Beheshti
 - Stacey Finley
-
-<!--  * Aaron Meyer
-  * Brian Joughin
-  * Marc Hafner
-  * Sara Gosline
-  * Stephen Piccolo
-  * Shannon Hughes
-  * Erin Wetzel
--->
-
-#### Conference Chairs
-
-- [Doug Lauffenburger](http://web.mit.edu/dallab/)
-- [Sylvia Plevritis](http://med.stanford.edu/plevritis.html)
-- [Sandy Anderson](https://labpages.moffitt.org/andersona/)
-
-<!--
-  * Douglas Lauffenburger
-  * Elaine Mardis
-  * Joe Gray
--->
