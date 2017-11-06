@@ -8,7 +8,7 @@ The Association of Early Career Cancer Systems Biologists (AECCSB) is an organi
 
 #### Mission Statement
 
-The AECCSB mission is to foster, promote and advocate for cancer systems biology and the needs of the researchers in the field. We do so by sharing information about the field and events, and fostering community and collaboration amongst our members. Our current aim is to host a bi-annual meeting in Cancer Systems Biology. The long-term goal of the AECCSB is the development of a Cancer Systems Biology Society.
+The AECCSB mission is to foster, promote and advocate for cancer systems biology and the needs of the researchers in the field. We do so by sharing information about the field and events, and fostering community and collaboration amongst our members. Our current aim is to host a biennial meeting in Cancer Systems Biology. The long-term goal of the AECCSB is the development of a Cancer Systems Biology Society.
 
 #### Conference Chairs
 
