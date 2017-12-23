@@ -23,4 +23,4 @@ Systems Approaches to Cancer Biology will be back in 2018!
 - [Ilya Shmulevich](https://www.systemsbiology.org/bio/ilya-shmulevich-phd/), Institute for Systems Biology
 - [Louis Weiner](https://lombardi.georgetown.edu/about/director.html), Georgetown University
 
-A meeting report summarizing the 2016 conference [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774).
+This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A meeting report summarizing the 2016 conference [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774).
