@@ -20,6 +20,7 @@ Systems Approaches to Cancer Biology will be back in 2018!
 - [Garry Nolan](http://web.stanford.edu/group/nolan/), Stanford University
 - [Saroja Ramanujan](https://www.gene.com/scientists/our-scientists/saroja-ramanujan), Genentech
 - [Rosalie Sears](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/molecular-and-medical-genetics/people/primary-faculty/rosalie-sears.cfm), Oregon Health & Science University
+- [Victoria Seewaldt](https://www.cityofhope.org/people/seewaldt-victoria), City of Hope
 - [Ilya Shmulevich](https://www.systemsbiology.org/bio/ilya-shmulevich-phd/), Institute for Systems Biology
 - [Louis Weiner](https://lombardi.georgetown.edu/about/director.html), Georgetown University
 
