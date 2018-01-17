@@ -28,3 +28,4 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 - Stephen Piccolo
 - Afshin Beheshti
 - Stacey Finley
+- Parag Mallick
