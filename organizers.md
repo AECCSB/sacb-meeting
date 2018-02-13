@@ -23,7 +23,7 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 - Elana Fertig
 - Sara Gosline
 - Marc Hafner
-- Ayesha Shahajan-Haq
+- Ayesha Shajahan-Haq
 - Tenley Archer
 - Stephen Piccolo
 - Afshin Beheshti
