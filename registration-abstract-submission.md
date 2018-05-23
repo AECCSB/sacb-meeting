@@ -11,12 +11,10 @@ This meeting aims to bring together the community of researchers applying system
 
 ### Registration
 
-Please note that abstract submission is separate from registering for the meeting. Meeting registration is forthcoming and will be announced when available.
+Please note that abstract submission is separate from registering for the meeting. There is only enough housing for 125 attendees after which we will begin to maintain a wait list. We recommend you register as soon as you can confirm you are able to attend.
 
-Prices for attendees include all meals during the meeting and vary based on the housing selected at MBL. Registration costs for the 2018 meeting are still being determined, but should be similar to the 2016 meeting:
+Prices for attendees include all meals during the meeting and vary based on the housing selected at MBL.
 
--   Single room: $750
--   Double room: $575
--   No housing: $425
+**[Register here through October 1, 2018.](https://mbl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=10&ct=STDCONF&eventid=11528)**
 
 For inquiries about the meeting please contact <csb-org@googlegroups.com>.
