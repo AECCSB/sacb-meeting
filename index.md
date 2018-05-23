@@ -1,9 +1,9 @@
 ---
-title: SACB Meeting
+title: Systems Approaches to Cancer Biology
 layout: page
 ---
 
-Systems Approaches to Cancer Biology will be back in 2018!
+[Registration](https://mbl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=10&ct=STDCONF&eventid=11528) and [abstract submission](https://sacbmeeting.org/registration-abstract-submission.html) for SACB 2018 are now open.
 
 ![Network diagram](/public/img/network_diag.png)
 
