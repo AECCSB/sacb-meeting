@@ -72,7 +72,7 @@ Invited speakers:
 Dinner (5:45 – 7:15 pm)
 
 ***Systems Biology Bench to Bedside #2*** (7:15 – 8:45 pm)  
-Invited speaker:  
+Invited speakers:  
 *Rosalie Sears (Oregon Health & Science University)*  
 *Victoria Seewaldt (City of Hope)*
 
