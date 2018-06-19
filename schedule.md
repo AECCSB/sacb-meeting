@@ -44,7 +44,7 @@ Meet the Editors Panel Discussion (7:15 – 8:15 pm)
 
 Networking Mixer (8:30 – 10:30 pm)
 
-**Friday, November 9**
+### Friday, November 9
 
 AECCSB Business Meeting (7:15 – 8:15 am)
 
@@ -76,7 +76,7 @@ Invited speaker:
 *Rosalie Sears (Oregon Health & Science University)*  
 *Victoria Seewaldt (City of Hope)*
 
-**Saturday, November 10**
+### Saturday, November 10
 
 Breakfast (7:30 – 8:30 am)
 
