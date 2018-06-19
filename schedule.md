@@ -13,16 +13,16 @@ Check-in at MBL (2:00 – 9:00 pm)
 
 Dinner (5:30 – 7:00 pm)
 
-Opening Keynote (7:00 -- 8:00 pm)  
+Opening Keynote (7:00 – 8:00 pm)  
 *Christina Leslie (Memorial Sloan Kettering Cancer Center)*
 
 Networking Mixer (8:30 – 10:30 pm)
 
 ### Thursday, November 8
 
-7:30 -- 8:30 am Breakfast
+Breakfast (7:30 – 8:30 am)
 
-9:00 -- 10:40 am **Session \#1: Tumor heterogeneity**
+**Session #1: Tumor heterogeneity** (9:00 – 10:40 am)
 
 > Invited Speaker:
 >
@@ -30,11 +30,11 @@ Networking Mixer (8:30 – 10:30 pm)
 >
 > *+ Abstract selected speakers*
 
-10:50 am - 12:00 pm Poster Session \#1
+Poster Session #1 (10:50 am – 12:00 pm)
 
-12:15 -- 1:30 pm Lunch + "Meet the PIs" Lunch Tables
+Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
-1:45 -- 3:25 pm **Session \#2: Microenvironment and Metastasis**
+ **Session #2: Microenvironment and Metastasis** (1:45 – 3:25 pm)
 
 > Invited speaker:
 >
@@ -42,9 +42,9 @@ Networking Mixer (8:30 – 10:30 pm)
 >
 > *+ Abstract selected speakers*
 
-3:25 -- 3:45 pm Coffee Break
+Coffee Break (3:25 – 3:45 pm)
 
-3:45 -- 5:25 pm **Session \#3: Translational Systems Biology**
+**Session #3: Translational Systems Biology** (3:45 – 5:25 pm)
 
 > Invited speaker:
 >
@@ -52,9 +52,9 @@ Networking Mixer (8:30 – 10:30 pm)
 
 *+ Abstract selected speakers*
 
-5:45 -- 7:15 pm Dinner
+Dinner (5:45 – 7:15 pm)
 
-7:15 -- 8:15 pm Meet the Editors Panel Discussion
+Meet the Editors Panel Discussion (7:15 – 8:15 pm)
 
 8:30 -- 10:30 pm Networking Mixer
 
