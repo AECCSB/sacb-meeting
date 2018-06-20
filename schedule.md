@@ -86,7 +86,6 @@ Invited Speaker:
 *Abstract selected speakers*
 
 Closing Keynote (11:00 am – 12:00 pm)
-
 *Joe Gray (Oregon Health & Science University)*
 
 Note: *Invited talks will be limited to 30 minutes with 10 minutes for questions. Selected talks will be limited to 12 minutes with 3 minutes for questions.*
