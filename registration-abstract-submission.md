@@ -13,7 +13,7 @@ This meeting aims to bring together the community of researchers applying system
 
 Please note that abstract submission is separate from registering for the meeting. There is only enough housing for 125 attendees after which we will begin to maintain a wait list. We recommend you register as soon as you can confirm you are able to attend.
 
-**[Register here through October 1, 2018.](https://mbl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=10&ct=STDCONF&eventid=11528)**
+**[Register here through October 8, 2018.](https://mbl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=10&ct=STDCONF&eventid=11528)**
 
 Prices for attendees include all meals during the meeting and vary based on the housing selected at MBL:
 
