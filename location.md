@@ -18,7 +18,7 @@ Woods Hole, MA 02543
 
 ### Getting to Woods Hole
 
-Woods Hole is accessible from [Boston Logan International Airport](https://www.massport.com/logan-airport/) or [Boston's South Station](http://www.south-station.net) via the [Peter Pan Bus Company](http://peterpanbus.com), with buses leaving approximately every hour, for $29. The schedule for each bus can be found [here](http://peterpanbus.com/commuter/commuter-bus-schedule-Cape-Cod-Islands.pdf).
+Woods Hole is accessible from [Boston Logan International Airport](https://www.massport.com/logan-airport/) or [Boston's South Station](http://www.south-station.net) via the [Peter Pan Bus Company](http://peterpanbus.com), with buses leaving approximately every hour, for $35–37.
 
 ### On Site
 
