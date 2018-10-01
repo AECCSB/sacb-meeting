@@ -33,8 +33,12 @@ Breakfast (7:30 – 8:30 am)
 Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
  **Session #2: Microenvironment and Metastasis** (1:45 – 3:25 pm)  
-Invited speaker: *Andrew Ewald (Johns Hopkins University)*  
-*Abstract selected speakers*
+
+- *Invited speaker:* Andrew Ewald (Johns Hopkins University)
+- Hunter Boyce (Stanford University): *Spatial analysis of multiplex immunohistochemistry data enables systems analysis of hypoxia and improved stratification of lung cancer patient outcomes*
+- Aedin Culhane (DFCI): *Extracting the latent signals of tumor seed/soil using matrix factorization approaches*
+- Andrew Gentles (Stanford University): *Pan-cancer analysis of time-to-distant metastasis in the context of node-positive and node-negative disease*
+- Daniel Ortiz (UCSD): *ECM-driven stress leads to cancer cell transdifferentiation and collective migration*
 
 Coffee Break (3:25 – 3:45 pm)
 
