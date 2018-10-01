@@ -30,7 +30,7 @@ Breakfast (7:30 – 8:30 am)
 
 **Poster Session #1** (10:50 am – 12:00 pm)
 
-Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
+Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
  **Session #2: Microenvironment and Metastasis** (1:45 – 3:25 pm)  
 
