@@ -43,8 +43,13 @@ Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 Coffee Break (3:25 – 3:45 pm)
 
 **Session #3: Translational Systems Biology** (3:45 – 5:25 pm)  
-Invited speaker: *Robert Gatenby (Moffitt Cancer Center)*  
-*Abstract selected speakers*
+
+- *Invited speaker:* Robert Gatenby (Moffitt Cancer Center)
+- Robert Gatenby (Moffitt Cancer Center): *Evolutionary dynamics in cancer therapy*
+- Amy Brock (UT Austin): *Lineage-resolved analysis of chemoresistance strategies and clonal dynamics*
+- Sagar Chhangawala (MSKCC): *Chromatin accessibility maps of Recurrence in Pancreatic Cancer*
+- Luciane Kagohara (John Hopkins University): *Integrated time course omics analysis distinguishes immediate therapeutic response from acquired resistance*
+- Jason Sheltzer (Cold Spring Harbor Labs): *Genetic determinants of cancer patient outcome*
 
 Dinner (5:45 – 7:15 pm)
 
