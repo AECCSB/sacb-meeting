@@ -3,7 +3,7 @@ title: Schedule
 layout: page
 ---
 
-The 2018 meeting will be held November 7–10 at the Marine Biological Laboratory in Woods Hole, MA. Note that this schedule is tentative.
+The 2018 meeting will be held November 7–10 at the Marine Biological Laboratory in Woods Hole, MA. All talks will take place at the Lillie auditorium. The poster session, meals, and mixers will be held in the Swope center.
 
 ### Wednesday, November 7
 
@@ -21,10 +21,14 @@ Networking Mixer (8:30 – 10:30 pm)
 Breakfast (7:30 – 8:30 am)
 
 **Session #1: Tumor heterogeneity** (9:00 – 10:40 am)  
-Invited Speaker: *Shannon Mumenthaler (University of Southern California)*  
-*Abstract selected speakers*
 
-Poster Session #1 (10:50 am – 12:00 pm)
+- *Invited Speaker:* Shannon Mumenthaler (University of Southern California)
+- Paul Macklin (Indiana University): *Open source software for studying 3-D multicellular cancer systems biology in high throughput*
+- Christopher McFarland (Stanford University): *Traversing the fitness landscape of lung adenocarcinoma in vivo using tumor barcoding and CRISPR/Cas9-mediated genome editing*
+- B. Bishal Paudel (Vanderbilt University): *Drug Response Epigenetic Landscape of BRAF-mutated Melanoma Cells*
+- Susanne Tilk (Stanford University): *Effects of genome-wide mutation rates on the accumulation of deleterious mutations in cancer*
+
+**Poster Session #1** (10:50 am – 12:00 pm)
 
 Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
