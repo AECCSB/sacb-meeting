@@ -64,16 +64,24 @@ AECCSB Business Meeting (7:15 – 8:15 am)
 Breakfast (7:30 – 8:30 am)
 
 **Session #4: Systems Immunology & Immunotherapy** (9:00 – 10:40 am)  
-Invited Speaker: *Ilya Shmulevich (Institute for Systems Biology)*  
-*Abstract selected speakers*
+
+- *Invited speaker:* Ilya Shmulevich (Institute for Systems Biology): *The Immune Landscape of Cancer*
+- Philipp Altrock (Moffitt): *Evolutionary dynamics of non-Hodgkin's lymphoma CAR T cell therapy*
+- Jennifer Oyler-Yaniv (UCLA): *Catch and Release of Cytokines Mediated by Tumor Phosphatidylserine Converts Transient Exposure into Long-Lived Inflammation*
+- Nathan Reticker-Flynn (Stanford): *Lymph node colonization promotes distant tumor metastasis through the induction of systemic immune tolerance*
+- Siranush Sarkizova (Harvard/Broad): *More accurate prediction of epitope presentation in tumors for cancer vaccines based on large datasets of HLA-associated epitopes*
 
 Poster Session #2 (10:50 am – 12:00 pm)
 
 Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
 **Session #5: Systems Pharmacology** (1:45 – 3:25 pm)  
-Invited speaker: *Saroja Ramanujan (Genentech)*  
-*Abstract selected speakers*
+
+- *Invited speaker:* Saroja Ramanujan (Genentech)
+- Arvind Singh Mer (University of Toronto): *Systematic assessment of genomic biomarkers for drug sensitivity prediction in patient derived xenografts*
+- Beril Tutuncuoglu (UCSF): *CRISPR-Cas9 based platform reveals PARP-inhibitor hypersensitivity of cells deficient in novel BRCA1-interactors*
+- David Wooten (Vanderbilt): *Quantifying drug combination synergy along axes of potency and efficacy*
+- Jorge G.T. Zanudo (Penn State): *Network modeling of drug resistance mechanisms and drug combinations in breast cancer*
 
 Coffee Break (3:25 – 3:45 pm)
 
@@ -94,9 +102,12 @@ Invited speakers:
 Breakfast (7:30 – 8:30 am)
 
 **Session #6: Signaling Networks in Cancer** (9:00 – 10:40 am)  
-Invited Speaker:  
-*Ursula Klingmüller (DKFZ)*  
-*Abstract selected speakers*
+
+- *Invited speaker:* Ursula Klingmüller (DKFZ)
+- Eric Batchelor (NCI): *Defining the network architecture coordinating double strand break repair and p53 dynamics*
+- Sean Gross (OHSU): *Accurate transmission of IGF-I into AKT signaling activity in individual cells*
+- Eunjung Kim (Moffitt): *Cell signaling heterogeneity is modulated by both cell-intrinsic and -extrinsic mechanisms: An integrated approach to understanding targeted therapy*
+- Manu Kumar (MIT): *Computational analysis of single-cell RNA-sequencing identifies tumor microenvironment cell-cell communication*
 
 Closing Keynote (11:00 am – 12:00 pm)  
 *Joe Gray (Oregon Health & Science University)*
