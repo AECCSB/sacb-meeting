@@ -20,7 +20,7 @@ Networking Mixer (8:30 – 10:30 pm)
 
 Breakfast (7:30 – 8:30 am)
 
-**Session #1: Tumor heterogeneity** (9:00 – 10:40 am)  
+**Session #1: Tumor Heterogeneity** (9:00 – 10:40 am)  
 
 - *Invited Speaker:* Shannon Mumenthaler (University of Southern California)
 - Paul Macklin (Indiana University): *Open source software for studying 3-D multicellular cancer systems biology in high throughput*
