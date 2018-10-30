@@ -28,7 +28,8 @@ Breakfast (7:30 – 8:30 am)
 - B. Bishal Paudel (Vanderbilt University): *Drug Response Epigenetic Landscape of BRAF-mutated Melanoma Cells*
 - Susanne Tilk (Stanford University): *Effects of genome-wide mutation rates on the accumulation of deleterious mutations in cancer*
 
-**Poster Session #1** (10:50 am – 12:00 pm)
+**Poster Session #1** (10:50 am – 12:00 pm)  
+Coffee included.
 
 Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
@@ -71,7 +72,8 @@ Breakfast (7:30 – 8:30 am)
 - Nathan Reticker-Flynn (Stanford): *Lymph node colonization promotes distant tumor metastasis through the induction of systemic immune tolerance*
 - Siranush Sarkizova (Harvard/Broad): *More accurate prediction of epitope presentation in tumors for cancer vaccines based on large datasets of HLA-associated epitopes*
 
-Poster Session #2 (10:50 am – 12:00 pm)
+**Poster Session #2** (10:50 am – 12:00 pm)  
+Coffee included.
 
 Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
