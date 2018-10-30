@@ -2,7 +2,7 @@
 title: Location
 layout: page
 ---
-The conference will take place at the [Marine Biological Laboratory](http://www.mbl.edu/conferences/) in Woods Hole, Massachusetts, approximately 75 miles from the Boston Logan airport.
+The conference will take place at the [Marine Biological Laboratory](http://www.mbl.edu/conferences/) in Woods Hole, Massachusetts, approximately 75 miles from Boston, MA.
 
 **Marine Biological Laboratory**
 
@@ -16,7 +16,7 @@ Woods Hole, MA 02543
 
 ### Getting to Woods Hole
 
-Woods Hole is located approximately 75 miles outside of Boston, MA and is accessible by car or via the [Peter Pan Bus Company](http://peterpanbus.com) from either [Boston Logan International Airport](https://www.massport.com/logan-airport/) or [Boston's South Station](http://www.south-station.net) approximately every other hour.
+Woods Hole is accessible by car or via the [Peter Pan Bus Company](http://peterpanbus.com) from either [Boston Logan International Airport](https://www.massport.com/logan-airport/) or [Boston's South Station](http://www.south-station.net) approximately every other hour.
 
 - For those driving, parking passes are available at check-in.
 - For those taking the bus from the airport, the last bus that arrives before the start of the meeting leaves at 3:20 P.M. on Wednesday, and there are two buses that return after the meeting on Saturday at 2:20 P.M and 4:50 P.M. 
