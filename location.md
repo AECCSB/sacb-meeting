@@ -21,7 +21,6 @@ Woods Hole is accessible by car or via the [Peter Pan Bus Company](http://peterp
 - For those driving, parking passes are available at check-in.
 - For those taking the bus from the airport, the last bus that arrives before the start of the meeting leaves at 3:20 P.M. on Wednesday, and there are two buses that return after the meeting on Saturday at 2:20 P.M and 4:50 P.M. 
 - For those taking the bus from Boston/South Station, the last bus that arrives before the meeting leaves at 4:00 P.M. on Wednesday and there are two buses that return after the meeting on Saturday at 2:20 P.M. and 4:50 P.M.
-For more details on getting to the conference please refer to the conference website. 
 
 
 ### On Site
