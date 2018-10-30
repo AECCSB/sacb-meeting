@@ -22,4 +22,8 @@ Woods Hole is accessible from [Boston Logan International Airport](https://www.m
 
 ### On Site
 
-Check-in will be at the [Swope lobby](https://www.google.com/maps/place/Swope+Center/@41.5264212,-70.6729768,17z/data=!4m2!3m1!1s0x89e4d88702f1e6cf:0xf6558c472d4aa281). Parking passes are available at check-in. All talks will take place at the [Lilly auditorium](https://www.google.com/maps/place/Marine+Biological+Laboratory/@41.5256391,-70.6746096,17z/data=!3m1!4b1!4m2!3m1!1s0x89e4d886d3a35f5d:0xbd6dcdc149d1a8c).
+The main check-in period for the Marine Biology Lab ([Swope lobby](https://www.google.com/maps/place/Swope+Center/@41.5264212,-70.6729768,17z/data=!4m2!3m1!1s0x89e4d88702f1e6cf:0xf6558c472d4aa281)) at Woods Hole, MA is on Wednesday, November 7, 2018 from 2:00 P.M - 7:00 P.M. Parking passes are available at check-in. (If you need to arrive later than that, security personnel will check you in.) Lodging is included with your conference registration. When you arrive, please check in at the Swope Center Lobby where you will receive the key to your room and all conference information. If you do not return your key you will be charged $60 after your departure. Dinner is included (see meal information below), and the opening keynote begins at 7:00 PM. All talks will take place at the [Lilly auditorium](https://www.google.com/maps/place/Marine+Biological+Laboratory/@41.5256391,-70.6746096,17z/data=!3m1!4b1!4m2!3m1!1s0x89e4d886d3a35f5d:0xbd6dcdc149d1a8c). The meeting ends after the closing keynote on Saturday, November 10, 2018 at 12:00 PM, but attendees must check out of lodging by 10:00 AM.
+
+Meals are also included as part of your registration. All meals will be served in the [Swope Cafeteria](http://www.mbl.edu/swope/). Breakfast is offered from 7:00 AM to 9:30 PM, lunch is offered from 11:30 AM to 1:30 PM, and dinner is offered from 5:00 PM to 7:30 PM.
+
+ 
