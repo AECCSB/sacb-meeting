@@ -29,7 +29,7 @@ Breakfast (7:30 – 8:30 am)
 - Susanne Tilk (Stanford University): *Effects of genome-wide mutation rates on the accumulation of deleterious mutations in cancer*
 
 **Poster Session #1** (10:50 am – 12:00 pm)  
-Coffee included.
+Coffee served.
 
 Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
@@ -73,7 +73,7 @@ Breakfast (7:30 – 8:30 am)
 - Siranush Sarkizova (Harvard/Broad): *More accurate prediction of epitope presentation in tumors for cancer vaccines based on large datasets of HLA-associated epitopes*
 
 **Poster Session #2** (10:50 am – 12:00 pm)  
-Coffee included.
+Coffee served.
 
 Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
@@ -110,6 +110,8 @@ Breakfast (7:30 – 8:30 am)
 - Sean Gross (OHSU): *Accurate transmission of IGF-I into AKT signaling activity in individual cells*
 - Eunjung Kim (Moffitt): *Cell signaling heterogeneity is modulated by both cell-intrinsic and -extrinsic mechanisms: An integrated approach to understanding targeted therapy*
 - Manu Kumar (MIT): *Computational analysis of single-cell RNA-sequencing identifies tumor microenvironment cell-cell communication*
+
+Coffee Break (10:40 am – 11:00 am)
 
 Closing Keynote (11:00 am – 12:00 pm)  
 *Joe Gray (Oregon Health & Science University)*
