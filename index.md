@@ -3,8 +3,6 @@ title: Systems Approaches to Cancer Biology
 layout: page
 ---
 
-[Registration](https://mbl-web.ungerboeck.com/reg/reg_p1_form.aspx?oc=10&ct=STDCONF&eventid=11528) and [abstract submission](https://sacbmeeting.org/registration-abstract-submission.html) for SACB 2018 are now open.
-
 ![Network diagram](/public/img/network_diag.png)
 
 **The Systems Approaches to Cancer Biology conference will take place November 7–10, 2018 at the Marine Biological Laboratory in Woods Hole, MA.** This second biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
