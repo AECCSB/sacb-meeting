@@ -108,7 +108,7 @@ Breakfast (7:30 – 8:30 am)
 - *Invited speaker:* Ursula Klingmüller (DKFZ)
 - Eric Batchelor (NCI): *Defining the network architecture coordinating double strand break repair and p53 dynamics*
 - Sean Gross (OHSU): *Accurate transmission of IGF-I into AKT signaling activity in individual cells*
-- Eunjung Kim (Moffitt): *Cell signaling heterogeneity is modulated by both cell-intrinsic and -extrinsic mechanisms: An integrated approach to understanding targeted therapy*
+- James Joly (USC): *PKA-mediated glycogen catabolism promotes cancer cell resistance to glucose deprivation*
 - Manu Kumar (MIT): *Computational analysis of single-cell RNA-sequencing identifies tumor microenvironment cell-cell communication*
 
 Coffee Break (10:40 am – 11:00 am)
