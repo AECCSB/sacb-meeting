@@ -83,7 +83,7 @@ Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 - Arvind Singh Mer (University of Toronto): *Systematic assessment of genomic biomarkers for drug sensitivity prediction in patient derived xenografts*
 - Beril Tutuncuoglu (UCSF): *CRISPR-Cas9 based platform reveals PARP-inhibitor hypersensitivity of cells deficient in novel BRCA1-interactors*
 - David Wooten (Vanderbilt): *Quantifying drug combination synergy along axes of potency and efficacy*
-- Jorge G.T. Zanudo (Penn State): *Network modeling of drug resistance mechanisms and drug combinations in breast cancer*
+- Molly Carroll (University of Wisconsin-Madison): *Moving beyond genetic mutations to predict response to targeted therapies*
 
 Coffee Break (3:25 – 3:45 pm)
 
