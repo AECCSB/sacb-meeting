@@ -23,8 +23,7 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 - Marc Hafner
 - Stephen Piccolo
 - James Costello
-- Molly Carrol
+- Molly Carroll
 - Ashlee Ford Versypt
 - Ioannis Zervantonakis
 - Arvind Mer 
-
