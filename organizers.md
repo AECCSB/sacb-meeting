@@ -21,6 +21,7 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 - Brian Joughin
 - Sara Gosline
 - Marc Hafner
+- Shannon Hughes
 - Stephen Piccolo
 - James Costello
 - Molly Carroll
