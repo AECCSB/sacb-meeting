@@ -12,19 +12,20 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 
 #### Conference Chairs
 
-- [Vito Quaranta](https://medschool.vanderbilt.edu/biochemistry/person/vito-quaranta/)
-- [Victoria Seewaldt](https://www.cityofhope.org/people/seewaldt-victoria)
-- [Kevin Janes](https://engineering.virginia.edu/faculty/kevin-janes)
+- [Doug Lauffenburger](http://web.mit.edu/dallab/)
+- [Sylvia Plevritis](http://med.stanford.edu/plevritis.html)
+- [Sandy Anderson](https://labpages.moffitt.org/andersona/)
 
 #### Organizing Committee
 
 - Brian Joughin
+- Kathleen Wilkie
+- Elana Fertig
 - Sara Gosline
 - Marc Hafner
+- Ayesha Shajahan-Haq
+- Tenley Archer
 - Stephen Piccolo
-- James Costello
-- Molly Carrol
-- Ashlee Ford Versypt
-- Ioannis Zervantonakis
-- Arvind Mer 
-
+- Afshin Beheshti
+- Stacey Finley
+- Parag Mallick
