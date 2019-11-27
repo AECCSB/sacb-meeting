@@ -23,4 +23,3 @@ layout: page
 - [Pamela Kreeger](https://www.kreegerlab.org/), University of Wisconsin-Madison
 
 This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A meeting report summarizing the 2016 conference [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774). The Program booklet from the 2018 conference [is available here](/public/sacb 2018 online booklet final.pdf)
-
