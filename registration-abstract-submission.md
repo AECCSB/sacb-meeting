@@ -3,14 +3,6 @@ title: Abstract Submission & Registration
 layout: page
 ---
 
-### Key Dates
-
-April 1, 2020 – Registration and abstract submission open  
-July 17, 2020 – Abstracts due  
-August 14, 2020 – Notifications made  
-Oct 9, 2020 – Registration closes  
-Nov 11-14, 2020 – Conference
-
 ### Abstract Submission
 
 This meeting aims to bring together the community of researchers applying systems methods to better understand and treat cancer. 
@@ -23,4 +15,4 @@ Please note that abstract submission is separate from registering for the meetin
 
 **Registration will open on April 1, 2020**
 
-For inquiries about the meeting please contact <csb-org@googlegroups.com>.
+For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org)

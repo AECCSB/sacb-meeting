@@ -12,10 +12,10 @@ layout: page
 - [Kornelia Polyak](https://www.polyaklab.dfci.harvard.edu/), Dana Farber Cancer Institute
 - [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), Koch Institute for Integrative Cancer Research at MIT
 - [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan
-- [Princess Imoukhebe](https://sites.wustl.edu/imoukhuedelab/), Washington University in St. Louis
+- [Princess Imoukhuede](https://sites.wustl.edu/imoukhuedelab/), Washington University in St. Louis
 - [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
 - [Michael Murrell](https://livingmatter.yale.edu/), Yale University
-- [Sourav Bandyopadhayay](http://cancersignaling.net/), University of California, San Francisco
+- [Sourav Bandyopadhyay](http://cancersignaling.net/), University of California, San Francisco
 - [Birgit Schoeberl](https://www.linkedin.com/in/bschoeberl), Novartis Institute fo BioMedical Research
 - [Thomas Yankeelov](https://dellmed.utexas.edu/directory/thomas-yankeelov), University of Texas at Austin
 - [Stacey Finley](http://csbl.usc.edu/), University of Southern California
