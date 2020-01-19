@@ -15,4 +15,4 @@ Please note that abstract submission is separate from registering for the meetin
 
 **Registration will open on April 1, 2020**
 
-For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org)
+For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org).

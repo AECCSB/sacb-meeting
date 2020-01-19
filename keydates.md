@@ -12,4 +12,4 @@ Oct 9, 2020 – Registration closes
 Nov 11-14, 2020 – Conference
 
 
-For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org)
+For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org).
