@@ -10,7 +10,7 @@ layout: page
 #### Confirmed Speakers: 
 
 - [Kornelia Polyak](https://www.polyaklab.dfci.harvard.edu/), Dana Farber Cancer Institute
-- [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), Koch Institute for Integrative Cancer Research at MIT
+- [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), MIT
 - [Christina Curtis](https://med.stanford.edu/curtislab.html), Stanford University
 - [James Heath](https://heath.isbscience.org/), Institute of Systems Biology
 - [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan
@@ -18,7 +18,7 @@ layout: page
 - [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
 - [Michael Murrell](https://livingmatter.yale.edu/), Yale University
 - [Sourav Bandyopadhyay](http://cancersignaling.net/), University of California, San Francisco
-- [Birgit Schoeberl](https://www.linkedin.com/in/bschoeberl), Novartis Institute fo BioMedical Research
+- [Birgit Schoeberl](https://www.linkedin.com/in/bschoeberl), Novartis Institute for BioMedical Research
 - [Thomas Yankeelov](https://dellmed.utexas.edu/directory/thomas-yankeelov), University of Texas at Austin
 - [Stacey Finley](http://csbl.usc.edu/), University of Southern California
 - [Melody Swartz](https://pme.uchicago.edu/swartz_group/), University of Chicago
