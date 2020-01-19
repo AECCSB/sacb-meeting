@@ -11,6 +11,8 @@ layout: page
 
 - [Kornelia Polyak](https://www.polyaklab.dfci.harvard.edu/), Dana Farber Cancer Institute
 - [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), Koch Institute for Integrative Cancer Research at MIT
+- [Christina Curtis](https://med.stanford.edu/curtislab.html), Stanford University
+- [James Heath](https://heath.isbscience.org/), Institute of Systems Biology
 - [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan
 - [Princess Imoukhuede](https://sites.wustl.edu/imoukhuedelab/), Washington University in St. Louis
 - [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
