@@ -5,25 +5,23 @@ layout: page
 
 ![Network diagram](/public/img/network_diag.png)
 
-**The Systems Approaches to Cancer Biology conference will take place November 7–10, 2018 at the Marine Biological Laboratory in Woods Hole, MA.** This second biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
+**The Systems Approaches to Cancer Biology conference will take place November 11–14, 2020 at the Marine Biological Laboratory in Woods Hole, MA.** This third biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
 
-[**Program Booklet** (PDF)](/public/sacb 2018 online booklet final.pdf)  
-[Oral Presentation Abstracts (PDF)](/public/Oral%20Presentation%20Abstracts%202018.pdf)  
-[Poster Presentation Abstracts (PDF)](/public/Poster%20Presentation%20Abstracts%202018.pdf)
+#### Confirmed Speakers: 
 
-#### Confirmed Speakers:
+- [Kornelia Polyak](https://www.polyaklab.dfci.harvard.edu/), Dana Farber Cancer Institute
+- [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), MIT
+- [Christina Curtis](https://med.stanford.edu/curtislab.html), Stanford University
+- [James Heath](https://heath.isbscience.org/), Institute of Systems Biology
+- [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan
+- [Princess Imoukhuede](https://sites.wustl.edu/imoukhuedelab/), Washington University in St. Louis
+- [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
+- [Michael Murrell](https://livingmatter.yale.edu/), Yale University
+- [Sourav Bandyopadhyay](http://cancersignaling.net/), University of California, San Francisco
+- [Birgit Schoeberl](https://www.linkedin.com/in/bschoeberl), Novartis Institute for BioMedical Research
+- [Thomas Yankeelov](https://dellmed.utexas.edu/directory/thomas-yankeelov), University of Texas at Austin
+- [Stacey Finley](http://csbl.usc.edu/), University of Southern California
+- [Melody Swartz](https://pme.uchicago.edu/swartz_group/), University of Chicago
+- [Pamela Kreeger](https://www.kreegerlab.org/), University of Wisconsin-Madison
 
-- [Andrew Ewald](https://cellbio.jhmi.edu/people/faculty/andrew-ewald-phd), Johns Hopkins University
-- [Robert Gatenby](https://www.moffitt.org/research-science/researchers/robert-gatenby/), Moffitt Cancer Center
-- [Joe Gray](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/bme-labs/gray-lab/index.cfm), Oregon Health & Science University
-- [Ursula Klingmüller](https://www.dkfz.de/en/systembiologie/mitarbeiter/detail/ursula.html), DFKZ
-- [Christina Leslie](https://www.mskcc.org/research-areas/labs/christina-leslie), Memorial Sloan Kettering Cancer Center
-- [Shannon Mumenthaler](https://ellison.usc.edu/people/shannon-mumenthaler/), University of Southern California
-- [Garry Nolan](http://web.stanford.edu/group/nolan/), Stanford University
-- [Saroja Ramanujan](https://www.gene.com/scientists/our-scientists/saroja-ramanujan), Genentech
-- [Rosalie Sears](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/molecular-and-medical-genetics/people/primary-faculty/rosalie-sears.cfm), Oregon Health & Science University
-- [Victoria Seewaldt](https://www.cityofhope.org/people/seewaldt-victoria), City of Hope
-- [Ilya Shmulevich](https://www.systemsbiology.org/bio/ilya-shmulevich-phd/), Institute for Systems Biology
-- [Louis Weiner](https://lombardi.georgetown.edu/about/director.html), Georgetown University
-
-This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A meeting report summarizing the 2016 conference [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774).
+This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A meeting report summarizing the 2016 conference [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774). The Program booklet from the 2018 conference [is available here](/public/sacb%202018%20online%20booklet%20final.pdf).
