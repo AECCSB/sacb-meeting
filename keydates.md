@@ -5,7 +5,7 @@ layout: page
 
 ### Key Dates
 
-April 1, 2020 – Registration and abstract submission open  
+May 1, 2020 – Registration and abstract submission open  
 July 17, 2020 – Abstracts due  
 August 14, 2020 – Notifications made  
 Oct 9, 2020 – Registration closes  
