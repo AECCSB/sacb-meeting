@@ -38,7 +38,7 @@ Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 - *Invited speaker:* Christina Curtis
 - 2 selected abstracts
 
-Coffee Break (3:25 – 3:45 pm)
+Coffee Break
 
 **Session #3: Signaling Networks in Cancer** (3:45 – 5:25 pm)  
 
