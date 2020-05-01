@@ -54,9 +54,9 @@ Networking Mixer (8:30 – 10:30 pm)
 
 ### Friday, November 13
 
-AECCSB Business Meeting (7:15 – 8:15 am)
+Breakfast (7:00 – 8:30 am)
 
-Breakfast (7:30 – 8:30 am)
+AECCSB Business Meeting (7:15 – 8:15 am)
 
 **Session #4: Immunology and Microenvironment** (9:00 - 10:50 am)
 - *Invited speaker:* Pam Kreeger
