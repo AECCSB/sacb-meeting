@@ -18,20 +18,21 @@ Networking Mixer (8:30 – 10:30 pm)
 
 ### Thursday, November 12
 
-Breakfast (7:30 – 8:30 am)
+Breakfast (7:30 – 8:30 am)  
+Registration for special lunch sessions
 
-**Session #1: Tumor Heterogeneity** (9:00 – 10:40 am)  
+**Session #1: Tumor Heterogeneity and Metastasis** (9:00 – 10:50 am)  
 
 - *Invited speaker:* Arthur Lander
 - *Invited speaker:* Michael Murrell
 - 2 selected abstracts
 
-**Poster Session #1** (10:50 am – 12:00 pm)  
+**Poster Session #1** (11:00 am – 12:15 pm)  
 Coffee served.
 
 Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
- **Session #2: Microenvironment and Metastasis** (1:45 – 3:25 pm)  
+ **Session #2: Cancer Evolution and Mechanisms of Resistance** (1:45 – 3:35 pm)  
 
 - *Invited speaker:* James Heath
 - *Invited speaker:* Christina Curtis
@@ -39,7 +40,7 @@ Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
 Coffee Break (3:25 – 3:45 pm)
 
-**Session #3: Translational Systems Biology** (3:45 – 5:25 pm)  
+**Session #3: Signaling Networks in Cancer** (3:45 – 5:25 pm)  
 
 - *Invited speaker:* Trachette Jackson
 - *Invited speaker:* Princess Imoukhede
@@ -47,7 +48,7 @@ Coffee Break (3:25 – 3:45 pm)
 
 Dinner (5:45 – 7:00 pm)
 
-Meet the Editors Panel Discussion (7:15 – 8:15 pm)
+TBD Panel Discussion (7:15 – 8:15 pm)
 
 Networking Mixer (8:30 – 10:30 pm)
 
