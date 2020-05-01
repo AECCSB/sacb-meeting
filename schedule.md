@@ -76,7 +76,7 @@ Lunch + "Meet the PIs" Lunch Tables (12:15 - 1:30 pm)
 Coffee break
 
 **NCI Session** (3:45 - 5:15 pm)
-- 3 Selected speakers TBD
+- 3 selected speakers TBD
 
 Dinner (5:30 – 7:00 pm)
 
