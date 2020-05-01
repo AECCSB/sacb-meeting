@@ -22,11 +22,9 @@ Breakfast (7:30 – 8:30 am)
 
 **Session #1: Tumor Heterogeneity** (9:00 – 10:40 am)  
 
-- *Invited Speaker:* Shannon Mumenthaler (University of Southern California)
-- Paul Macklin (Indiana University): *Open source software for studying 3-D multicellular cancer systems biology in high throughput*
-- Christopher McFarland (Stanford University): *Traversing the fitness landscape of lung adenocarcinoma in vivo using tumor barcoding and CRISPR/Cas9-mediated genome editing*
-- B. Bishal Paudel (Vanderbilt University): *Drug Response Epigenetic Landscape of BRAF-mutated Melanoma Cells*
-- Susanne Tilk (Stanford University): *Effects of genome-wide mutation rates on the accumulation of deleterious mutations in cancer*
+- *Invited speaker:* Arthur Lander
+- *Invited speaker:* Michael Murrell
+- 2 selected abstracts
 
 **Poster Session #1** (10:50 am – 12:00 pm)  
 Coffee served.
@@ -35,24 +33,19 @@ Lunch with "Meet the PIs" mentoring opportunity (12:15 – 1:30 pm)
 
  **Session #2: Microenvironment and Metastasis** (1:45 – 3:25 pm)  
 
-- *Invited speaker:* Andrew Ewald (Johns Hopkins University)
-- Hunter Boyce (Stanford University): *Spatial analysis of multiplex immunohistochemistry data enables systems analysis of hypoxia and improved stratification of lung cancer patient outcomes*
-- Aedin Culhane (DFCI): *Extracting the latent signals of tumor seed/soil using matrix factorization approaches*
-- Andrew Gentles (Stanford University): *Pan-cancer analysis of time-to-distant metastasis in the context of node-positive and node-negative disease*
-- Daniel Ortiz (UCSD): *ECM-driven stress leads to cancer cell transdifferentiation and collective migration*
+- *Invited speaker:* James Heath
+- *Invited speaker:* Christina Curtis
+- 2 selected abstracts
 
 Coffee Break (3:25 – 3:45 pm)
 
 **Session #3: Translational Systems Biology** (3:45 – 5:25 pm)  
 
-- *Invited speaker:* Robert Gatenby (Moffitt Cancer Center)
-- Robert Gatenby (Moffitt Cancer Center): *Evolutionary dynamics in cancer therapy*
-- Amy Brock (UT Austin): *Lineage-resolved analysis of chemoresistance strategies and clonal dynamics*
-- Sagar Chhangawala (MSKCC): *Chromatin accessibility maps of Recurrence in Pancreatic Cancer*
-- Luciane Kagohara (John Hopkins University): *Integrated time course omics analysis distinguishes immediate therapeutic response from acquired resistance*
-- Jason Sheltzer (Cold Spring Harbor Labs): *Genetic determinants of cancer patient outcome*
+- *Invited speaker:* Trachette Jackson
+- *Invited speaker:* Princess Imoukhede
+- 2 selected abstracts
 
-Dinner (5:45 – 7:15 pm)
+Dinner (5:45 – 7:00 pm)
 
 Meet the Editors Panel Discussion (7:15 – 8:15 pm)
 
