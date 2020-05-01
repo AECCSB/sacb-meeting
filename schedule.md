@@ -64,40 +64,27 @@ AECCSB Business Meeting (7:15 – 8:15 am)
 
 Breakfast (7:30 – 8:30 am)
 
-**Session #4: Systems Immunology & Immunotherapy** (9:00 – 10:40 am)  
+**Session #4: Immunology and Microenvironment** (9:00 - 10:50 am)
+- *Invited speaker:* Pam Kreeger
+- *Invited speaker:* Melody Swartz
+- 2 selected abstracts
 
-- *Invited speaker:* Ilya Shmulevich (Institute for Systems Biology): *The Immune Landscape of Cancer*
-- Philipp Altrock (Moffitt): *Evolutionary dynamics of non-Hodgkin's lymphoma CAR T cell therapy*
-- Jennifer Oyler-Yaniv (UCLA): *Catch and Release of Cytokines Mediated by Tumor Phosphatidylserine Converts Transient Exposure into Long-Lived Inflammation*
-- Nathan Reticker-Flynn (Stanford): *Lymph node colonization promotes distant tumor metastasis through the induction of systemic immune tolerance*
-- Siranush Sarkizova (Harvard/Broad): *More accurate prediction of epitope presentation in tumors for cancer vaccines based on large datasets of HLA-associated epitopes*
-
-**Poster Session #2** (10:50 am – 12:00 pm)  
+**Poster Session #2** (11:00 am – 12:15 pm)  
 Coffee served.
 
-Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
+Lunch + "Meet the PIs" Lunch Tables (12:15 - 1:30 pm)
 
-**Session #5: Systems Pharmacology** (1:45 – 3:25 pm)  
+**Session #5: Systems Pharmacology** (1:45p - 3:35 pm)
+- *Invited speaker:* Birgit Schoeberl
+- *Invited speaker:* Sourav Bandyopadhayay
+- 2 selected abstracts
 
-- *Invited speaker:* Saroja Ramanujan (Genentech)
-- Arvind Singh Mer (University of Toronto): *Systematic assessment of genomic biomarkers for drug sensitivity prediction in patient derived xenografts*
-- Beril Tutuncuoglu (UCSF): *CRISPR-Cas9 based platform reveals PARP-inhibitor hypersensitivity of cells deficient in novel BRCA1-interactors*
-- David Wooten (Vanderbilt): *Quantifying drug combination synergy along axes of potency and efficacy*
-- Molly Carroll (University of Wisconsin-Madison): *Moving beyond genetic mutations to predict response to targeted therapies*
+Coffee break
 
-Coffee Break (3:25 – 3:45 pm)
+**NCI Session** (3:45 - 5:15 pm)
+- 3 Selected speakers TBD
 
-***Systems Biology Bench to Bedside #1*** (3:45 – 5:25 pm)  
-Invited speakers:  
-*Garry Nolan (Stanford University)*  
-*Louis Weiner (Georgetown University)*
-
-Dinner (5:45 – 7:15 pm)
-
-***Systems Biology Bench to Bedside #2*** (7:15 – 8:45 pm)  
-Invited speakers:  
-*Rosalie Sears (Oregon Health & Science University)*  
-*Victoria Seewaldt (City of Hope)*
+Dinner (5:30 – 7:00 pm)
 
 ### Saturday, November 14
 
