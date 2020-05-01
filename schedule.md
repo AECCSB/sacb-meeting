@@ -12,7 +12,7 @@ Check-in at MBL (2:00 – 9:00 pm)
 Dinner (5:30 – 7:00 pm)
 
 Opening Keynote (7:00 – 8:00 pm)  
-*Christina Leslie (Memorial Sloan Kettering Cancer Center)*
+*Nelly Polyak (Harvard Medical School)*
 
 Networking Mixer (8:30 – 10:30 pm)
 
@@ -101,19 +101,17 @@ Invited speakers:
 
 ### Saturday, November 14
 
-Breakfast (7:30 – 8:30 am)
+Breakfast (7:00 - 8:00 am)
 
-**Session #6: Signaling Networks in Cancer** (9:00 – 10:40 am)  
+**Session #6: Signaling Networks in Cancer** (8:30 – 10:20 am)  
 
-- *Invited speaker:* Ursula Klingmüller (DKFZ)
-- Eric Batchelor (NCI): *Defining the network architecture coordinating double strand break repair and p53 dynamics*
-- Sean Gross (OHSU): *Accurate transmission of IGF-I into AKT signaling activity in individual cells*
-- James Joly (USC): *PKA-mediated glycogen catabolism promotes cancer cell resistance to glucose deprivation*
-- Manu Kumar (MIT): *Computational analysis of single-cell RNA-sequencing identifies tumor microenvironment cell-cell communication*
+- *Invited speaker:* Thomas Yankeelov
+- *Invited speaker:* Stacey Finley
+- 2 selected abstracts
 
-Coffee Break (10:40 am – 11:00 am)
+Coffee Break (10:20 am - 10:30 am)
 
-Closing Keynote (11:00 am – 12:00 pm)  
-*Joe Gray (Oregon Health & Science University)*
+Closing Keynote (10:30 - 11:30 am)  
+*Mike Yaffe (MIT)*
 
 Note: *Invited talks will be limited to 30 minutes with 10 minutes for questions. Selected talks will be limited to 12 minutes with 3 minutes for questions.*
