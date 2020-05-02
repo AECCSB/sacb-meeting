@@ -66,23 +66,23 @@ AECCSB Business Meeting (7:15 – 8:15 am)
 **Poster Session #2** (11:00 am – 12:15 pm)  
 Coffee served.
 
-Lunch + "Meet the PIs" Lunch Tables (12:15 - 1:30 pm)
+Lunch + "Meet the PIs" Lunch Tables (12:15 – 1:30 pm)
 
-**Session #5: Systems Pharmacology** (1:45p - 3:35 pm)
+**Session #5: Systems Pharmacology** (1:45 – 3:35 pm)
 - *Invited speaker:* Birgit Schoeberl
 - *Invited speaker:* Sourav Bandyopadhayay
 - 2 selected abstracts
 
 Coffee break
 
-**NCI Session** (3:45 - 5:15 pm)
+**NCI Session** (3:45 – 5:15 pm)
 - 3 selected speakers TBD
 
 Dinner (5:30 – 7:00 pm)
 
 ### Saturday, November 14
 
-Breakfast (7:00 - 8:00 am)
+Breakfast (7:00 – 8:00 am)
 
 **Session #6: Signaling Networks in Cancer** (8:30 – 10:20 am)  
 
@@ -90,9 +90,9 @@ Breakfast (7:00 - 8:00 am)
 - *Invited speaker:* Stacey Finley
 - 2 selected abstracts
 
-Coffee Break (10:20 am - 10:30 am)
+Coffee Break (10:20 – 10:30 am)
 
-Closing Keynote (10:30 - 11:30 am)  
+Closing Keynote (10:30 – 11:30 am)  
 *Mike Yaffe (MIT)*
 
 Note: *Invited talks will be limited to 30 minutes with 10 minutes for questions. Selected talks will be limited to 12 minutes with 3 minutes for questions.*
