@@ -12,7 +12,7 @@ Check-in at MBL (2:00 – 9:00 pm)
 Dinner (5:30 – 7:00 pm)
 
 Opening Keynote (7:00 – 8:00 pm)  
-*Nelly Polyak (Harvard Medical School)*
+*Kornelia Polyak (Harvard Medical School)*
 
 Networking Mixer (8:30 – 10:30 pm)
 
