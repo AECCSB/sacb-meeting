@@ -84,7 +84,7 @@ Dinner (5:30 – 7:00 pm)
 
 Breakfast (7:00 – 8:00 am)
 
-**Session #6: Signaling Networks in Cancer** (8:30 – 10:20 am)  
+**Session #6: Translational Systems Biology** (8:30 – 10:20 am)  
 
 - *Invited speaker:* Thomas Yankeelov
 - *Invited speaker:* Stacey Finley
