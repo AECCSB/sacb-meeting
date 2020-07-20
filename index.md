@@ -5,12 +5,10 @@ layout: page
 
 ![Network diagram](/public/img/network_diag.png)
 
-**The Systems Approaches to Cancer Biology conference will take place November 11–14, 2020 at the Marine Biological Laboratory in Woods Hole, MA.** This third biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
+**The Systems Approaches to Cancer Biology conference will take place November 11–13, 2020 in a virtual format. More details will be provided shortly** This third biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
 
 #### Confirmed Speakers: 
 
-- [Kornelia Polyak](https://www.polyaklab.dfci.harvard.edu/), Dana Farber Cancer Institute
-- [Michael Yaffe](https://ki.mit.edu/people/faculty/yaffe), MIT
 - [Christina Curtis](https://med.stanford.edu/curtislab.html), Stanford University
 - [James Heath](https://heath.isbscience.org/), Institute of Systems Biology
 - [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan
