@@ -10,14 +10,14 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 **Session #1: Tumor Heterogeneity and Metastasis** (9-10:30am PST, 12-1:30pm EST)  
 - *Invited speaker:* Arthur Lander
 - *Invited speaker:* Michael Murrell
-2 selected abstracts
+- 2 selected abstracts
 
 **Lightening talk, poster session** (10:30-12am PST, 1:30-3pm EST)
 
 **Session #2: Cancer Evolution and Mechanisms of Resistance** (12-1:30pm PST, 3-4:30pm EST)
 - *Invited speaker:* James Heath
 - *Invited speaker:* Christina Curtis
-2 selected abstracts
+- 2 selected abstracts
 
 ### Thursday, November 12, 2020
 
