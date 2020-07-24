@@ -7,6 +7,8 @@ layout: page
 
 Abstract submission is now open! We are accepting abstracts.
 
+The format of the poster session is evolving with the move to a virtual meeting format. Each poster will be provided a webpage for display of the poster abstract, a 3-5 minute video, the actual poster, and a question and answer section. Selected abstracts will be invited to provide a longer full talk during the scientific sessions. The poster session will be held inbetween the scientific sessions. Poster prizes will be awarded.
+
 [**Submit abstract here**](https://docs.google.com/forms/d/e/1FAIpQLSe3buD1-0UJcw_5qmb0gzqjgGrh1U5rUOmxzODNmtThCzKvew/viewform)
 
 ### Registration
