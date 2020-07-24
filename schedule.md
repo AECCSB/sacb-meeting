@@ -12,7 +12,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 - *Invited speaker:* Michael Murrell
 - 2 selected abstracts
 
-**Lightening talk, poster session** (10:30-12am PST, 1:30-3pm EST)
+**Lightning talk, poster session** (10:30-12am PST, 1:30-3pm EST)
 
 **Session #2: Cancer Evolution and Mechanisms of Resistance** (12-1:30pm PST, 3-4:30pm EST)
 - *Invited speaker:* James Heath
@@ -26,7 +26,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 - *Invited speaker:* Princess Imoukhede
 - 2 selected abstracts
 
-**Lightening talk, poster session** (10:30-12am PST, 1:30-3pm EST)
+**Mentorship session** (10:30-12am PST, 1:30-3pm EST)
 
 **Session #4: Immunology and Microenvironment** (12-1:30pm PST, 3-4:30pm EST)
 - *Invited speaker:* Pam Kreeger
@@ -40,7 +40,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 - *Invited speaker:* Sourav Bandyopadhayay
 - 2 selected abstracts
 
-**Lightening talk, poster session** (10:30-12am PST, 1:30-3pm EST)
+**Lightning talk, poster session** (10:30-12am PST, 1:30-3pm EST)
 
 **Session #6: Signaling Networks in Cancer** (12-1:30pm PST, 3-4:30pm EST)
 - *Invited speaker:* Thomas Yankeelov
