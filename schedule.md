@@ -46,7 +46,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 
 **Lightning talk, poster session** (10:30-12am PST, 1:30-3pm EST)
 
-**Session #6: Signaling Networks in Cancer** (12-1:30pm PST, 3-4:30pm EST)
+**Session #6: Translational Systems Biology** (12-1:30pm PST, 3-4:30pm EST)
 - *Invited speaker:* [Thomas Yankeelov](https://dellmed.utexas.edu/directory/thomas-yankeelov), University of Texas at Austin
 - *Invited speaker:* [Stacey Finley](http://csbl.usc.edu/), University of Southern California
 - 2 selected abstracts
