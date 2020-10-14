@@ -5,12 +5,17 @@ layout: page
 
 The 2020 meeting will be held November 11–13, 2020 in a virtual format. More details to follow.
 
-### Wednesday, November 11, 2020
+## Wednesday, November 11, 2020
 
-**Session #1: Tumor Heterogeneity and Metastasis** (9-10:30am PST, 12-1:30pm EST)  
-- *Invited speaker:* [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
-- *Invited speaker:* [Michael Murrell](https://livingmatter.yale.edu/), Yale University
-- 2 selected abstracts
+### Session #1: Tumor Heterogeneity and Metastasis (9-10:30am PST, 12-1:30pm EST)  
+
+**Invited speaker:** [Arthur Lander](https://lander-office.bio.uci.edu/), University of California, Irvine
+"Collective cell behaviors at the onset of cancer"
+
+*Invited speaker:* [Michael Murrell](https://livingmatter.yale.edu/), Yale University
+"Tissue Pressure drives traction-independent cellular flows"
+
+2 selected abstracts
 
 **Lightning talk, poster session** (10:30-12am PST, 1:30-3pm EST)
 
