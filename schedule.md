@@ -56,7 +56,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 "SPaRTAN, a computational framework for linking surface proteins to transcriptional regulators and single-cell genomic states"
 
 **Selected Abstract:** Sabrina L. Spencer, University of Colorado-Boulder  
-"Rewiring of regulatory networks in breast cancer by transcription factor isoforms"
+"Melanoma subpopulations that rapidly escape MAPK pathway inhibition rely on stress signalling and incur DNA damage"
 
 ### Mentorship session (10:30-12am PST, 1:30-3pm EST)
 
