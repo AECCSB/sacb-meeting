@@ -66,7 +66,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 "Systems approaches to ovarian cancer metastasis"
 
 **Invited speaker:** [Melody Swartz](https://pme.uchicago.edu/swartz_group/), University of Chicago  
-"TBD"
+"Systems approaches to modeling the tumor-lymph-immune interface"
 
 **Selected Abstract:** Dimitrios Sidiropoulos, Johns Hopkins University  
 "Integrative characterization of the Her2+ Breast Tumor Microenvironment with Entinostat & Immune Checkpoint Blockade Combination Therapies"
