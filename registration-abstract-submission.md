@@ -5,7 +5,7 @@ layout: page
 
 ### Registration
 
-Registration is now open and completely free! [Follow this link to get started.](https://www.cvent.com/d/y7q4rj/4W)
+Registration is now open and completely free! [Follow this link to get started.](https://www.cvent.com/d/y7q4rj?RefID=main)
 
 ### Abstract Submission
 
