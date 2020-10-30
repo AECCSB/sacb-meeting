@@ -71,8 +71,8 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 **Selected Abstract:** Dimitrios Sidiropoulos, Johns Hopkins University  
 "Integrative characterization of the Her2+ Breast Tumor Microenvironment with Entinostat & Immune Checkpoint Blockade Combination Therapies"
 
-**Selected Abstract:** Alice Yu, Stanford University  
-"Modeling cognate ligand-receptor groups uncovers clonal crosstalk in lung adenocarcinoma interactome"
+**Selected Abstract:** Janani Baskaran, Tufts University  
+"Cell shape, and not 2D migration, predicts extracellular matrix-driven 3D cell invasion in breast cancer"
 
 ### Improving Inclusion in the Cancer Systems Biology Community (1:30-2:30pm PST, 4:30-5:30pm EST)
 
