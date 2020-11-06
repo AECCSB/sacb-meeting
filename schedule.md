@@ -49,8 +49,8 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 **Invited speaker:** [Trachette Jackson](https://sites.lsa.umich.edu/tjacks/), University of Michigan  
 "Mathematical model of Targeted Molecular Therapeutics"
 
-**Invited speaker:** [Princess Imoukhuede](https://sites.wustl.edu/imoukhuedelab/), Washington University in St. Louis  
-"New insights into tyrosine kinase receptor binding, localization and signaling"
+**Invited speaker:** [Kevin Janes](https://engineering.virginia.edu/faculty/kevin-janes), University of Virginia  
+"TBD"
 
 **Selected Abstract:** Hatice Osmanbeyoglu, University of Pittsburgh  
 "SPaRTAN, a computational framework for linking surface proteins to transcriptional regulators and single-cell genomic states"
