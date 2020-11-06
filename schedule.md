@@ -50,7 +50,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 "Mathematical model of Targeted Molecular Therapeutics"
 
 **Invited speaker:** [Kevin Janes](https://engineering.virginia.edu/faculty/kevin-janes), University of Virginia  
-"TBD"
+"Systems-level identification of a single-cell bottleneck in premalignant glioma"
 
 **Selected Abstract:** Hatice Osmanbeyoglu, University of Pittsburgh  
 "SPaRTAN, a computational framework for linking surface proteins to transcriptional regulators and single-cell genomic states"
