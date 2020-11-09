@@ -5,7 +5,9 @@ layout: page
 
 ![Network diagram](/public/img/network_diag.png)
 
-**The Systems Approaches to Cancer Biology conference will take place November 11–13, 2020 in a virtual format. More details will be provided shortly** This third biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
+**All parts of the meeting can be accessed on [EventFinity](https://2020sacbmeeting.eventfinity.co/login).** Your login username is the email address you used to register. You should have received an email with the default password, or can also reset your password on this page.
+
+**The Systems Approaches to Cancer Biology conference will take place November 11–13, 2020 in a virtual format.** This third biennial meeting will bring together the community of researchers applying systems methods to better understand cancer biology.
 
 #### Confirmed Speakers: 
 
