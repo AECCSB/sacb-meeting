@@ -12,19 +12,18 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 
 #### Conference Chairs
 
-- [Vito Quaranta](https://medschool.vanderbilt.edu/biochemistry/person/vito-quaranta/)
-- [Victoria Seewaldt](https://www.cityofhope.org/people/seewaldt-victoria)
-- [Kevin Janes](https://engineering.virginia.edu/faculty/kevin-janes)
+- [Trachette Jackson, PhD](https://sites.lsa.umich.edu/tjacks/)
+- [Andrea Bild, PhD](http://bildlab.org/)
+- [Kevin Janes, PhD](https://engineering.virginia.edu/faculty/kevin-janes)
 
 #### Organizing Committee
 
 - Brian Joughin
 - Sara Gosline
-- Marc Hafner
-- Shannon Hughes
-- Stephen Piccolo
+- Stacey Finley
 - James Costello
-- Molly Carroll
 - Ashlee Ford Versypt
-- Ioannis Zervantonakis
-- Arvind Mer 
+- Nick Graham
+- Leonard Harris
+- Jorge Zanudo
+- Robert Beckman
