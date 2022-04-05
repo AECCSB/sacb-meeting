@@ -9,7 +9,7 @@ layout: page
 **The Systems Approaches to Cancer Biology conference will take place October 19–22, 2022 at the Marine Biological Laboratory in Woods Hole, MA.**
 
 
-**Spekaers**
+**Speakers**
 - Keynote: [Kornelia Polyak, MD, PhD](https://www.dfhcc.harvard.edu/insider/member-detail/member/kornelia-polyak-md-phd/)
 - Keynote: [Michael Yaffe, MD, PhD](https://ki.mit.edu/people/faculty/yaffe)
 - [Ivana Bozic](https://www.ivanabozic.com/)
