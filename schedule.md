@@ -17,8 +17,8 @@ layout: page
 ### Session 1: Tumor Heterogeneity and Metastasis
 **8:30 – 10:10 am**		
 Invited Speakers:
-_Mohammad Fallahi-Sichani, PhD_
-_Ivana Bozic, PhD_
++ _Mohammad Fallahi-Sichani, PhD_
++ _Ivana Bozic, PhD_
 + 2 Abstract selected speakers
 Poster preview talks - Lightning talks from selected posters 
 
