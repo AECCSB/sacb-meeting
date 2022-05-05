@@ -16,11 +16,11 @@ layout: page
 
 ### Session 1: Tumor Heterogeneity and Metastasis
 **8:30 – 10:10 am**		
-Invited Speakers:
+Speakers:
 + _Mohammad Fallahi-Sichani, PhD_
 + _Ivana Bozic, PhD_
 + 2 Abstract selected speakers
-Poster preview talks - Lightning talks from selected posters 
++ Poster preview talks - Lightning talks from selected posters 
 
 ### Poster Session 1
 **10:30 am - 12:00 pm**
@@ -34,8 +34,9 @@ Session in development
 
 ### Session 3: Translational Systems Biology
 **4:00 – 5:40 pm**
-_David Fuller, MD, PhD_
-_Elana Fertig, PhD_
+Speakers:
++ _David Fuller, MD, PhD_
++ _Elana Fertig, PhD_
 + 2 Abstract selected speakers
 
 **6:00 – 7:00 pm**		Dinner
@@ -47,10 +48,11 @@ _Elana Fertig, PhD_
 
 ### Session 4: Immunology & Microenvironment
 **8:30 – 10:10 am**		
-_Ning Jenny Jiang, PhD_
-_Jose Javier Bravo-Cordero, PhD_
+Speakers:
++ _Ning Jenny Jiang, PhD_
++ _Jose Javier Bravo-Cordero, PhD_
 + 2 Abstract selected speakers
-Poster preview talks - Lightning talks from selected posters 
++ Poster preview talks - Lightning talks from selected posters 
 
 ### Poster Session 2
 **10:30 am - 12:00 pm**		
@@ -59,16 +61,18 @@ Poster preview talks - Lightning talks from selected posters
 
 ### Session 5: Systems Pharmacology
 **2:00 – 3:40 pm**
-_Mike Lee, PhD_
-_Dan Kirouac, PhD_
+Speakers:
++ _Mike Lee, PhD_
++ _Dan Kirouac, PhD_
 + 2 Abstract selected speakers
 
 **3:40 – 4:00 pm**		Coffee Break
 
 ### Session 6: Cancer Evolution and Mechanisms of Resistance
 **4:00 – 5:40 pm**
-_Amy Boddy, PhD_
-_James DeGregori, PhD_
+Speakers:
++ _Amy Boddy, PhD_
++ _James DeGregori, PhD_
 + 2 Abstract selected speakers
 
 **6:00 – 7:00 pm**		Dinner
@@ -79,8 +83,9 @@ _James DeGregori, PhD_
 
 ### Session 7: Signaling Networks in Cancer
 **9:00 – 10:40 am**
-_Reka Albert, PhD_
-_Kristen Naegle, PhD_
+Speakers:
++ _Reka Albert, PhD_
++ _Kristen Naegle, PhD_
 + 2 Abstract selected speakers
 
 **10:40 - 11:00 am**      Coffee Break 
