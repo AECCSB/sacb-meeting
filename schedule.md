@@ -6,8 +6,11 @@ layout: page
 ## Wednesday, October 19, 2022
 
 **2:00 - 9:00 pm EST**    Check-in at MBL
+
 **5:30 – 7:00 pm**        Dinner
+
 **7:00 – 8:00 pm**        Opening Keynote: _Kornelia Polyak, MD, PhD_ 
+
 **8:30 - 10:30 pm**       Networking Mixer
 
 ## Thursday, October 20, 2022
@@ -15,6 +18,7 @@ layout: page
 **7:30 – 8:30 am EST**    Breakfast
 
 ### Session 1: Tumor Heterogeneity and Metastasis
+
 **8:30 – 10:10 am**		
 Speakers:
 + _Mohammad Fallahi-Sichani, PhD_
@@ -24,6 +28,7 @@ Speakers:
 
 ### Poster Session 1
 **10:30 am - 12:00 pm**
+
 **12:00 – 1:30 pm**		Lunch + “Meet the PIs” Lunch Tables
 
 ### Session 2: Health Disparities Special Session
@@ -40,6 +45,7 @@ Speakers:
 + 2 Abstract selected speakers
 
 **6:00 – 7:00 pm**		Dinner
+
 **8:00 – 10:00 pm**		Networking Mixer
 
 ## Friday, October 21, 2022
@@ -89,6 +95,7 @@ Speakers:
 + 2 Abstract selected speakers
 
 **10:40 - 11:00 am**      Coffee Break 
+
 **11:00 am - 12:00 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
 
 
