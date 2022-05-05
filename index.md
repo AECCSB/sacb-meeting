@@ -23,5 +23,6 @@ layout: page
 - [Dan Kirouac](https://www.linkedin.com/in/dankirouac/)
 - [David Fuller](https://faculty.mdanderson.org/profiles/clifton_fuller.html)
 - [Elana Fertig](https://fertiglab.com/)
+- [Mohammad Fallahi-Sichani](https://www.fallahi-sichani-lab.com/)
 
 This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A report summarizing the 2016 meeting [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774). The program booklet from the 2018 meeting [is available here](/public/sacb%202018%20online%20booklet%20final.pdf). The schedule for the 2020 meeting [is available here](https://sacbmeeting.org/2020/schedule).
