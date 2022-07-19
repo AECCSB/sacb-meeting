@@ -31,7 +31,7 @@ Speakers:
 
 **12:00 – 1:30 pm**		Lunch + “Meet the PIs” Lunch Tables
 
-### Session 2: Health Disparities Special Session
+### Session 2: Health Equity Special Session
 **2:00 – 3:40 pm**	
 Session in development
 
