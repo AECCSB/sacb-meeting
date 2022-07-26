@@ -9,13 +9,17 @@ layout: page
 
 **5:30 – 7:00 pm**        Dinner
 
-**7:00 – 8:00 pm**        Opening Keynote: _Kornelia Polyak, MD, PhD_ 
+**7:00 – 7:05 pm**        Keynote Introduction: _Trachette Jackson, PhD_
+
+**7:05 – 8:00 pm**        Opening Keynote: _Kornelia Polyak, MD, PhD_ 
 
 **8:30 - 10:30 pm**       Networking Mixer
 
 ## Thursday, October 20, 2022
 
-**7:30 – 8:30 am EST**    Breakfast
+**7:30 – 8:20 am EST**    Breakfast
+
+**8:20 – 8:30 am**	      Opening Remarks: _Kevin Janes, PhD_	
 
 ### Session 1: Tumor Heterogeneity and Metastasis
 
@@ -96,7 +100,11 @@ Speakers:
 
 **10:40 - 11:00 am**      Coffee Break 
 
-**11:00 am - 12:00 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
+**11:00 am - 11:05 pm**   Keynote Introduction: _Andrea Bild, PhD_ 
+
+**11:05 am - 12:00 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
+
+**12:00 am - 12:15 pm**   Closing Keynote: _Andrea Bild, PhD_ 
 
 
 _Note: Invited talks will be limited to 35 minutes total (5 minutes for questions). Selected talks will be limited to 15 minutes total. Poster preview lightning talks will be 2 minutes and meant to be previews of posters._
