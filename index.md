@@ -8,7 +8,7 @@ layout: page
 
 **The Systems Approaches to Cancer Biology conference will take place October 19–22, 2022 at the Marine Biological Laboratory in Woods Hole, MA.**
 
-The SACB Scholars Program aims to bring new people and new perspectives to the cancer systems biology community. Consider applying for an all expenses paid trip to SACB 2022 for eligible trainees. [Click here](tinyurl.com/y7afr93e) for more details.
+The SACB Scholars Program aims to bring new people and new perspectives to the cancer systems biology community. Consider applying for an all expenses paid trip to SACB 2022 for eligible trainees. [Click here](http://tinyurl.com/y7afr93e) for more details.
 
 
 **Speakers**
