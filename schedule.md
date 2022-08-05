@@ -37,7 +37,9 @@ Speakers:
 
 ### Session 2: Health Equity Special Session
 **2:00 – 3:40 pm**	
-Session in development
+Speakers:
++ _Loretta Erhunmwunsee, MD_
++ _Salma Kaochar, MD_
 
 **3:40 – 4:00 pm**		Coffee Break
 
