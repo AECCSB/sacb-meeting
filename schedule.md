@@ -27,7 +27,8 @@ layout: page
 Speakers:
 + _Mohammad Fallahi-Sichani, PhD_
 + _Ivana Bozic, PhD_
-+ 2 Abstract selected speakers
++ _MA Masud, PhD_ Selected Abstract
++ _Geena Ildefonso, PhD_ Selected Abstract
 + Poster preview talks - Lightning talks from selected posters 
 
 ### Poster Session 1
@@ -48,7 +49,8 @@ Speakers:
 Speakers:
 + _David Fuller, MD, PhD_
 + _Elana Fertig, PhD_
-+ 2 Abstract selected speakers
++ _James C Pino, PhD_ Selected Abstract
++ _Lisa Uechi, PhD_ Selectec Abstract
 
 **6:00 – 7:00 pm**		Dinner
 
@@ -63,7 +65,8 @@ Speakers:
 Speakers:
 + _Ning Jenny Jiang, PhD_
 + _Jose Javier Bravo-Cordero, PhD_
-+ 2 Abstract selected speakers
++ _Matthew Poskus_ Selected Abstract
++ _Anne Talkington, PhD_ Selected Abstract
 + Poster preview talks - Lightning talks from selected posters 
 
 ### Poster Session 2
@@ -76,7 +79,8 @@ Speakers:
 Speakers:
 + _Mike Lee, PhD_
 + _Dan Kirouac, PhD_
-+ 2 Abstract selected speakers
++ _Haeun Hwangbo_ Selected Abstract
++ _Lukasz Bugaj, PhD_ Selected Abstract
 
 **3:40 – 4:00 pm**		Coffee Break
 
@@ -85,7 +89,8 @@ Speakers:
 Speakers:
 + _Amy Boddy, PhD_
 + _James DeGregori, PhD_
-+ 2 Abstract selected speakers
++ _David Basanta, PhD_ Selected Abstract
++ _Edward Evans Jr., PhD_ Selected Abstract
 
 **6:00 – 7:00 pm**		Dinner
 
@@ -98,7 +103,8 @@ Speakers:
 Speakers:
 + _Reka Albert, PhD_
 + _Kristen Naegle, PhD_
-+ 2 Abstract selected speakers
++ _Avlant Nilsson, PhD_ Selected Abstract
++ _Yasmine Ahmed_ Selected Abstract
 
 **10:40 - 11:00 am**      Coffee Break 
 
