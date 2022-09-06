@@ -27,3 +27,5 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 - Leonard Harris
 - Jorge Zanudo
 - Robert Beckman
+- Linh Huynh (Health Equity Session)
+- Andy Raddatz (Health Equity Session)
