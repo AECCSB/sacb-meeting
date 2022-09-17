@@ -112,7 +112,7 @@ Speakers:
 
 **11:05 am - 12:00 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
 
-**12:00 am - 12:15 pm**   Closing Keynote: _Andrea Bild, PhD_ 
+**12:00 am - 12:15 pm**   Closing Remarks: _Andrea Bild, PhD_ 
 
 
 _Note: Invited talks will be limited to 35 minutes total (5 minutes for questions). Selected talks will be limited to 15 minutes total. Poster preview lightning talks will be 2 minutes and meant to be previews of posters._
