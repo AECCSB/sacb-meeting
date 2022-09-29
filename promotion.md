@@ -1,5 +1,5 @@
 ---
-title: Promotional Material
+title: SACB 2022 Sponsors
 layout: page
 ---
 
