@@ -9,7 +9,7 @@ layout: page
 
 **5:30 – 7:00 pm**        Dinner
 
-**7:00 – 7:05 pm**        Keynote Introduction: _Trachette Jackson, PhD_
+**7:00 – 7:05 pm**        Keynote Introduction: _Kevin Janes, PhD_
 
 **7:05 – 8:00 pm**        Opening Keynote: _Kornelia Polyak, MD, PhD_ 
 
@@ -19,7 +19,7 @@ layout: page
 
 **7:30 – 8:20 am EST**    Breakfast
 
-**8:20 – 8:30 am**	      Opening Remarks: _Kevin Janes, PhD_	
+**8:20 – 8:30 am**	      Opening Remarks: _Trachette Jackson, PhD_	
 
 ### Session 1: Tumor Heterogeneity and Metastasis
 
@@ -99,20 +99,20 @@ Speakers:
 **7:30 – 8:30 am EST**    Breakfast
 
 ### Session 7: Signaling Networks in Cancer
-**9:00 – 10:40 am**
+**8:30 – 10:10 am**
 Speakers:
 + _Reka Albert, PhD_
 + _Kristen Naegle, PhD_
 + _Avlant Nilsson, PhD_: Selected Abstract
 + _Yasmine Ahmed_: Selected Abstract
 
-**10:40 - 11:00 am**      Coffee Break 
+**10:10 - 10:30 am**      Coffee Break 
 
-**11:00 am - 11:05 pm**   Keynote Introduction: _Andrea Bild, PhD_ 
+**10:30 am - 10:35 pm**   Keynote Introduction: _Kevin Janes, PhD_ 
 
-**11:05 am - 12:00 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
+**10:35 am - 11:30 pm**   Closing Keynote: _Michael Yaffe, MD, PhD_ 
 
-**12:00 am - 12:15 pm**   Closing Remarks: _Andrea Bild, PhD_ 
+**11:30 am - 11:45 am**   Closing Remarks: _Kevin Janes, PhD_ 
 
 
 _Note: Invited talks will be limited to 35 minutes total (5 minutes for questions). Selected talks will be limited to 15 minutes total. Poster preview lightning talks will be 2 minutes and meant to be previews of posters._
