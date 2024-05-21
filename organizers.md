@@ -12,9 +12,9 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 
 #### Conference Chairs
 
-- [Trachette Jackson, PhD](https://sites.lsa.umich.edu/tjacks/)
-- [Andrea Bild, PhD](http://bildlab.org/)
-- [Kevin Janes, PhD](https://engineering.virginia.edu/faculty/kevin-janes)
+- [Melissa Kemp, PhD](https://kemp.gatech.edu/)
+- [Paul Macklin, PhD](http://mathcancer.org/)
+- [Michael Lee, PhD](https://www.umassmed.edu/lee-lab/)
 
 #### Organizing Committee
 
@@ -22,10 +22,9 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 - Sara Gosline
 - Stacey Finley
 - James Costello
-- Ashlee Ford Versypt
+- Matt Lazarra
 - Nick Graham
-- Leonard Harris
-- Jorge Zanudo
+- Edward Evans, Jr.
+- Jorge Gómez Tejeda Zañudo
 - Robert Beckman
-- Linh Huynh (Health Equity Session)
-- Andy Raddatz (Health Equity Session)
+- Sarah Groves
