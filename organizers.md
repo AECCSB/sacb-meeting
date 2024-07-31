@@ -12,10 +12,10 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 
 #### Conference Chairs
 
-- [Melissa Kemp, PhD](https://kemp.gatech.edu/)
-- [Paul Macklin, PhD](http://mathcancer.org/)
-- [Michael Lee, PhD](https://www.umassmed.edu/lee-lab/)
-
+- [Melissa Kemp, PhD](https://kemp.gatech.edu/), Georgia Tech
+- [Paul Macklin, PhD](http://mathcancer.org/), Indiana University
+- [Michael Lee, PhD](https://www.umassmed.edu/lee-lab/), UMass Chan Medical School
+  
 #### Organizing Committee
 
 - Brian Joughin, MIT
