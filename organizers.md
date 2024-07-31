@@ -18,13 +18,13 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 
 #### Organizing Committee
 
-- Brian Joughin
-- Sara Gosline
-- Stacey Finley
-- James Costello
-- Matt Lazarra
-- Nick Graham
-- Edward Evans, Jr.
-- Jorge Gómez Tejeda Zañudo
-- Robert Beckman
-- Sarah Groves
+- Brian Joughin, MIT
+- Sara Gosline, Pacific Northwest National Laboratory
+- Stacey Finley, University of Southern California
+- James Costello, University of Colorado Anschutz Medical Campus
+- Matt Lazzara, University of Virginia
+- Nick Graham, University of Southern California
+- Edward Evans, Jr., University of Colorado Anschutz Medical Campus
+- Jorge Gómez Tejeda Zañudo, Broad Institute
+- Robert Beckman, Georgetown University
+- Sarah Groves, University of Virginia
