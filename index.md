@@ -9,9 +9,9 @@ layout: page
 **The Systems Approaches to Cancer Biology conference will take place February 10-12, 2025 at the University of Colorado Anschutz Medical Campus in Aurora, CO.**
 
 
-**Speakers**
-- Keynote: [Doug Lauffenburger, PhD](https://be.mit.edu/directory/douglas-a-lauffenburger)
-- Keynote: [Christine Iacobuzio-Donahue, MD, PhD](https://www.mskcc.org/research-areas/labs/christine-iacobuzio-donahue)
+**Keynote Speakers**
+- [Doug Lauffenburger, PhD](https://be.mit.edu/directory/douglas-a-lauffenburger)
+- [Christine Iacobuzio-Donahue, MD, PhD](https://www.mskcc.org/research-areas/labs/christine-iacobuzio-donahue)
 
 **Invited Speakers**
 - [Pamela Becker, MD, PhD](https://www.cityofhope.org/pamela-becker), City of Hope
