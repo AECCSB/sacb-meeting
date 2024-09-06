@@ -3,11 +3,11 @@ title: Key Dates
 layout: page
 ---
 
-- **TBD** – Abstract submission open
-- **TBD** - Abstract submission close
-- **TBD** - Notifications to be sent out for abstracts selected for full talks
-- **TBD** - Registration deadline
-- **TBD** – SACB meeting
+- **Sept. 1, 2024** – [Abstract submission](https://forms.gle/UXhGmTXK7HDtKi9p9) open
+- **Nov. 1, 2024** - [Abstract submission](https://forms.gle/UXhGmTXK7HDtKi9p9) close
+- **Dec. 1, 2024** - Notifications to be sent out for abstracts selected for full talks
+- **Jan 10, 2025** - Registration deadline
+- **Feb. 1-12, 2025** – SACB meeting
 
 Notification email will be sent when registration is open
 
