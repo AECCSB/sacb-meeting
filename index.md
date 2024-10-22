@@ -15,7 +15,7 @@ layout: page
 
 **Invited Speakers**
 - [Pamela Becker, MD, PhD](https://www.cityofhope.org/pamela-becker), City of Hope
-- [Soledad Sosa, PhD](https://labs.icahn.mssm.edu/sosalab/research/), Mount Sinai
+- [Soledad Sosa, PhD](https://www.sosa-lab.com/), Albert Einstein College of Medicine
 - [Sriram Chandrasekaran, PhD](https://midas.umich.edu/faculty-member/sriram-chandrasekaran/), University of Michigan
 - [Cholsoon Jang, PhD](https://sites.uci.edu/janglab/), UC Irvine
 - [Paolo Provenzano, PhD](https://cse.umn.edu/bme/paolo-provenzano), University of Minnesota
