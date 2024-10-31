@@ -11,6 +11,8 @@ layout: page
 
 Registration information will be posted soon.
 
+We anticipate that registration cost will be $150. We also anticipate offering scholarships to cover registration for trainees.
+
 
 
 
