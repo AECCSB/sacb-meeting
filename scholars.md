@@ -19,6 +19,6 @@ SACB Scholar applicants are not required to have submitted a scientific abstract
 
 Due to limited funding to support travel expenses, priority will be given to applicants from the United States.
 
-The application deadline for essay submission is **Friday, Nov. 1, 2024**.
+The application deadline for essay submission is **Friday, Dec. 2, 2024**.
 
-We will notify all applicants of their application's status by **Dec. 1, 2024**.
+We will notify all applicants of their application's status by **Mid-December, 2024**.
