@@ -18,8 +18,8 @@ layout: page
 
 **9:30 – 11:10 am**		Session #1: Tumor Heterogeneity and Metastasis
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Pamela Becker, MD, PhD, City of Hope**
++ Invited Speaker 2 - **Soledad Sosa, PhD, Albert Einstein College of Medicine**
 + Abstract Speaker 1
 + Abstract Speaker 2
 
@@ -27,8 +27,8 @@ layout: page
 
 **1:00 – 2:40 pm**		Session #2: Metabolism at Scale
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Sriram Chandrasekaran, PhD, University of Michigan**
++ Invited Speaker 2 - **Cholsoon Jang, PhD, UC Irvine**
 + Abstract Speaker 1
 + Abstract Speaker 2
 
@@ -36,10 +36,11 @@ layout: page
 
 **3:10 – 4:50 pm**		Session #3: SACB Postdoc Spotlight
 
-+ Invited Speaker 1
-+ Invited Speaker 2
 + Abstract Speaker 1
 + Abstract Speaker 2
++ Abstract Speaker 3
++ Abstract Speaker 4
++ Abstract Speaker 5
 
 **4:50 – 5:00 pm**		Lightning talks from selected posters
 
@@ -47,6 +48,7 @@ layout: page
 + Talk 2
 + Talk 3
 + Talk 4
++ Talk 5
 
 **5:00 – 6:30 pm**		Poster session A (with refreshments and snacks)
 
@@ -59,8 +61,8 @@ layout: page
 
 **9:00 – 10:40 am**		Session #4: Immunology & Host-tumor Interactions
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Paolo Provenzano, PhD, University of Minnesota**
++ Invited Speaker 2 - **Melissa Davis, PhD, Morehouse School of Medicine**
 + Abstract Speaker 1
 + Abstract Speaker 2
 
@@ -69,6 +71,7 @@ layout: page
 + Talk 2
 + Talk 3
 + Talk 4
++ Talk 5
 
 **10:50 – 12:00 pm**		Poster Session B 
 
@@ -76,8 +79,8 @@ layout: page
 
 **1:30 – 3:10 pm**		Session #5: Systems Pharmacology
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Marc Birtwistle, PhD, Clemson University**
++ Invited Speaker 2 - **Andriy Marusuyk, PhD, Moffitt Cancer Center**
 + Abstract Speaker 1
 + Abstract Speaker 2
  
@@ -85,8 +88,8 @@ layout: page
 
 **4:40 – 6:20 pm**		Session # 6: Health Equity for AI in Cancer Systems Biology
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Tina Hernandez-Boussard, PhD, Stanford Medicine**
++ Invited Speaker 2 - **James W Lillard, PhD, MBA, Morehouse School of Medicine**
 + Abstract Speaker 1
 + Abstract Speaker 2
 
@@ -98,8 +101,8 @@ layout: page
 
 **9:00 – 10:40 am**		Session #7: Targeting Signal Transduction
 
-+ Invited Speaker 1
-+ Invited Speaker 2
++ Invited Speaker 1 - **Rachel Gottschalk, PhD, University of Pittsburgh**
++ Invited Speaker 2 - **Steven Cappell, PhD, National Cancer Institute**
 + Abstract Speaker 1
 + Abstract Speaker 2
   
