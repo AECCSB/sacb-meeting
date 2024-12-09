@@ -23,7 +23,7 @@ layout: page
 - [Tina Hernandez-Boussard, PhD](https://med.stanford.edu/boussard-lab/people/tina_hernandez_boussard.html), Stanford Medicine
 - [James W Lillard, PhD, MBA](https://www.msm.edu/about_us/FacultyDirectory/MicrobiologyBiochemistryImmunology/JamesLillard/index.php), Morehouse School of Medicine
 - [Marc Birtwistle, PhD](https://www.clemson.edu/cecas/departments/chbe/people/birtwistle_m.html), Clemson University
-- [Andriy Marusuyk, PhD](https://www.moffitt.org/research-science/researchers/andriy-marusyk/), Moffitt Cancer Center
+- [Andriy Marusyk, PhD](https://www.moffitt.org/research-science/researchers/andriy-marusyk/), Moffitt Cancer Center
 - [Rachel Gottschalk, PhD](https://www.isb.pitt.edu/people/faculty/rachel-gottschalk-phd), University of Pittsburgh
 - [Steven Cappell, PhD](https://ccr.cancer.gov/staff-directory/steven-d-cappell), National Cancer Institute
 
