@@ -9,11 +9,11 @@ layout: page
 
 ### SACB Scholars Submission
 
-[SACB Scholars submission](https://forms.gle/MjJjLuBP6D2ZhBHG8) is now open through Dec. 2, 2024
+SACB Scholar submissions are now closed.
 
 ### Registration
 
-Registration information will be posted soon.
+[Registration](https://cvent.me/747BO2) is now open .
 
 We anticipate that registration cost will be $150. We also anticipate offering scholarships to cover registration for trainees.
 
