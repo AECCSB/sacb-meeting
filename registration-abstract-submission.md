@@ -13,7 +13,7 @@ SACB Scholar submissions are now closed.
 
 ### Registration
 
-[Registration](https://cvent.me/747BO2) is now open .
+[Registration](https://cvent.me/747BO2) is now open.
 
 We anticipate that registration cost will be $150. We also anticipate offering scholarships to cover registration for trainees.
 
