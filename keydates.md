@@ -11,9 +11,6 @@ layout: page
 - **Jan 24, 2025** - Registration deadline
 - **Feb. 10-12, 2025** – SACB meeting
 
-Notification email will be sent when registration is open
-
-
 For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org).
 
 ## Location and Travel Information
