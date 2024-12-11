@@ -12,7 +12,7 @@ layout: page
 ## Monday, February 10, 2025
 **7:30 – 8:20 am**		Breakfast
 
-**8:20 – 8:30 am**		Opening remarks by Melissa Kemp
+**8:20 – 8:30 am**		Opening remarks by **Melissa Kemp, PhD, Georgia Tech**
 
 **8:30 – 9:30 am**		Opening Keynote - **Christine Iacobuzio-Donahue, MD, PhD, MSKCC**
 
@@ -108,7 +108,7 @@ layout: page
 
 **11:00 am – 12:00 pm**	Closing Keynote - **Douglas Lauffenburger, PhD, MIT**
 
-**12:00 pm**		Closing remarks by Paul Macklin
+**12:00 pm**		Closing remarks by **Paul Macklin, PhD, Indiana University**
 
 _Note: Invited talks will be limited to 35 minutes total (5 minutes for questions). Selected talks will be limited to 15 minutes total. Poster preview lightning talks will be 2 minutes and meant to be previews of posters._
 
