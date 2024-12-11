@@ -14,14 +14,14 @@ layout: page
 
 **8:20 – 8:30 am**		Opening remarks by Melissa Kemp
 
-**8:30 – 9:30 am**		Opening Keynote
+**8:30 – 9:30 am**		Opening Keynote - **Christine Iacobuzio-Donahue, MD, PhD, MSKCC**
 
 **9:30 – 11:10 am**		Session #1: Tumor Heterogeneity and Metastasis
 
 + Invited Speaker 1 - **Pamela Becker, MD, PhD, City of Hope**
 + Invited Speaker 2 - **Soledad Sosa, PhD, Albert Einstein College of Medicine**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Abstract Speaker 1 - **Elizabeth Brunk, PhD, University of North Carolina**
++ Abstract Speaker 2 - **Mohit Kumar Jolly, PhD, Indian Institute of Science**
 
 **11:30 – 1:00 pm**		Lunch + “Meet the PIs” Lunch Tables
 
@@ -29,26 +29,25 @@ layout: page
 
 + Invited Speaker 1 - **Sriram Chandrasekaran, PhD, University of Michigan**
 + Invited Speaker 2 - **Cholsoon Jang, PhD, UC Irvine**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Abstract Speaker 1 - **Bethany Veo, University of Colorado Anschutz Medical Campus**
++ Abstract Speaker 2 - **Yapeng Su, PhD, Fred Hutch Cancer Center**
 
 **2:40 – 3:10 pm**		Coffee Break
 
 **3:10 – 4:50 pm**		Session #3: SACB Postdoc Spotlight
 
-+ Abstract Speaker 1
-+ Abstract Speaker 2
-+ Abstract Speaker 3
-+ Abstract Speaker 4
-+ Abstract Speaker 5
++ **John Metzcar, PhD, University of Minnesota**
++ **Amy E. Pomeray, PhD, University of North Carolina**
++ **Christian Meyer, PhD, University of Colorado, Boulder**
++ **Raghav Jain, PhD, Pacific Northwest National Lab**
 
 **4:50 – 5:00 pm**		Lightning talks from selected posters
 
-+ Talk 1
-+ Talk 2
-+ Talk 3
-+ Talk 4
-+ Talk 5
++ **Wei He, PhD, Georgetown University**
++ **Prasanna Vaddi, PhD, University of Colorado Anschutz Medical Campus**
++ **Michelle Barbeau, University of Virginia**
++ **Ryan Schildcrout, University of Michigan**
++ **Victor Passanisi, University of Colorado, Boulder**
 
 **5:00 – 6:30 pm**		Poster session A (with refreshments and snacks)
 
@@ -63,15 +62,15 @@ layout: page
 
 + Invited Speaker 1 - **Paolo Provenzano, PhD, University of Minnesota**
 + Invited Speaker 2 - **Melissa Davis, PhD, Morehouse School of Medicine**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Abstract Speaker 1 - **Zuzana Tatarova, PhD, DKFZ German Cancer Research Center**
++ Abstract Speaker 2 - **Adam MacLean, PhD, University of Southern California**
 
 **10:40 – 10:50 am**		Lightning talks from selected posters 
-+ Talk 1
-+ Talk 2
-+ Talk 3
-+ Talk 4
-+ Talk 5
++ **Rebecca A. Bekker, PhD, University of Southern California**
++ **Lucas Gillenwater, University of Colorado Anschutz Medical Campus**
++ **Anisha Datta, MIT**
++ **Shuming Zhang, Johns Hopkins University**
++ **Annie Badenoch, University of Michigan**
 
 **10:50 – 12:00 pm**		Poster Session B 
 
@@ -81,8 +80,8 @@ layout: page
 
 + Invited Speaker 1 - **Marc Birtwistle, PhD, Clemson University**
 + Invited Speaker 2 - **Andriy Marusuyk, PhD, Moffitt Cancer Center**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Abstract Speaker 1 - **Leonard A. Harris, PhD, University of Arkansas**
++ Abstract Speaker 2 - **Emily Bozich, PhD, UCLA**
  
 **3:10 – 4:40 pm**		Coffee Break
 
@@ -90,8 +89,7 @@ layout: page
 
 + Invited Speaker 1 - **Tina Hernandez-Boussard, PhD, Stanford Medicine**
 + Invited Speaker 2 - **James W Lillard, PhD, MBA, Morehouse School of Medicine**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Panel Discussion
 
 **6:30 – 8:30 pm**		Conference Dinner
 
@@ -103,12 +101,12 @@ layout: page
 
 + Invited Speaker 1 - **Rachel Gottschalk, PhD, University of Pittsburgh**
 + Invited Speaker 2 - **Steven Cappell, PhD, National Cancer Institute**
-+ Abstract Speaker 1
-+ Abstract Speaker 2
++ Abstract Speaker 1 - **Varuna Nangia, University of Colorado, Boulder**
++ Abstract Speaker 2 - **Todd Stukenberg, PhD, University of Virginia**
   
 **10:40 – 11:00 am**		Coffee Break 
 
-**11:00 am – 12:00 pm**	Closing Keynote
+**11:00 am – 12:00 pm**	Closing Keynote - **Douglas Lauffenburger, PhD, MIT**
 
 **12:00 pm**		Closing remarks by Paul Macklin
 
