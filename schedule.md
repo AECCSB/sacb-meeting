@@ -18,19 +18,19 @@ layout: page
 
 **9:30 – 11:10 am**		Session #1: Tumor Heterogeneity and Metastasis
 
-+ Invited Speaker 1 - **Pamela Becker, MD, PhD, City of Hope**
-+ Invited Speaker 2 - **Soledad Sosa, PhD, Albert Einstein College of Medicine**
-+ Abstract Speaker 1 - **Elizabeth Brunk, PhD, University of North Carolina**
-+ Abstract Speaker 2 - **Mohit Kumar Jolly, PhD, Indian Institute of Science**
++ Invited Speaker - **Pamela Becker, MD, PhD, City of Hope**
++ Invited Speaker - **Soledad Sosa, PhD, Albert Einstein College of Medicine**
++ Abstract Speaker - **Elizabeth Brunk, PhD, University of North Carolina**
++ Abstract Speaker - **Mohit Kumar Jolly, PhD, Indian Institute of Science**
 
 **11:30 – 1:00 pm**		Lunch + “Meet the PIs” Lunch Tables
 
 **1:00 – 2:40 pm**		Session #2: Metabolism at Scale
 
-+ Invited Speaker 1 - **Sriram Chandrasekaran, PhD, University of Michigan**
-+ Invited Speaker 2 - **Cholsoon Jang, PhD, UC Irvine**
-+ Abstract Speaker 1 - **Bethany Veo, University of Colorado Anschutz Medical Campus**
-+ Abstract Speaker 2 - **Yapeng Su, PhD, Fred Hutch Cancer Center**
++ Invited Speaker - **Sriram Chandrasekaran, PhD, University of Michigan**
++ Invited Speaker - **Cholsoon Jang, PhD, UC Irvine**
++ Abstract Speaker - **Bethany Veo, University of Colorado Anschutz Medical Campus**
++ Abstract Speaker - **Yapeng Su, PhD, Fred Hutch Cancer Center**
 
 **2:40 – 3:10 pm**		Coffee Break
 
@@ -60,10 +60,10 @@ layout: page
 
 **9:00 – 10:40 am**		Session #4: Immunology & Host-tumor Interactions
 
-+ Invited Speaker 1 - **Paolo Provenzano, PhD, University of Minnesota**
-+ Invited Speaker 2 - **Melissa Davis, PhD, Morehouse School of Medicine**
-+ Abstract Speaker 1 - **Zuzana Tatarova, PhD, DKFZ German Cancer Research Center**
-+ Abstract Speaker 2 - **Adam MacLean, PhD, University of Southern California**
++ Invited Speaker - **Paolo Provenzano, PhD, University of Minnesota**
++ Invited Speaker - **Melissa Davis, PhD, Morehouse School of Medicine**
++ Abstract Speaker - **Zuzana Tatarova, PhD, DKFZ German Cancer Research Center**
++ Abstract Speaker - **Adam MacLean, PhD, University of Southern California**
 
 **10:40 – 10:50 am**		Lightning talks from selected posters 
 + **Rebecca A. Bekker, PhD, University of Southern California**
@@ -78,17 +78,17 @@ layout: page
 
 **1:30 – 3:10 pm**		Session #5: Systems Pharmacology
 
-+ Invited Speaker 1 - **Marc Birtwistle, PhD, Clemson University**
-+ Invited Speaker 2 - **Andriy Marusuyk, PhD, Moffitt Cancer Center**
-+ Abstract Speaker 1 - **Leonard A. Harris, PhD, University of Arkansas**
-+ Abstract Speaker 2 - **Emily Bozich, PhD, UCLA**
++ Invited Speaker - **Marc Birtwistle, PhD, Clemson University**
++ Invited Speaker - **Andriy Marusuyk, PhD, Moffitt Cancer Center**
++ Abstract Speaker - **Leonard A. Harris, PhD, University of Arkansas**
++ Abstract Speaker - **Emily Bozich, PhD, UCLA**
  
 **3:10 – 4:40 pm**		Coffee Break
 
 **4:40 – 6:20 pm**		Session # 6: Health Equity for AI in Cancer Systems Biology
 
-+ Invited Speaker 1 - **Tina Hernandez-Boussard, PhD, Stanford Medicine**
-+ Invited Speaker 2 - **James W Lillard, PhD, MBA, Morehouse School of Medicine**
++ Invited Speaker - **Tina Hernandez-Boussard, PhD, Stanford Medicine**
++ Invited Speaker - **James W Lillard, PhD, MBA, Morehouse School of Medicine**
 + Panel Discussion
 
 **6:30 – 8:30 pm**		Conference Dinner
@@ -99,10 +99,10 @@ layout: page
 
 **9:00 – 10:40 am**		Session #7: Targeting Signal Transduction
 
-+ Invited Speaker 1 - **Rachel Gottschalk, PhD, University of Pittsburgh**
-+ Invited Speaker 2 - **Steven Cappell, PhD, National Cancer Institute**
-+ Abstract Speaker 1 - **Varuna Nangia, University of Colorado, Boulder**
-+ Abstract Speaker 2 - **Todd Stukenberg, PhD, University of Virginia**
++ Invited Speaker - **Rachel Gottschalk, PhD, University of Pittsburgh**
++ Invited Speaker - **Steven Cappell, PhD, National Cancer Institute**
++ Abstract Speaker - **Varuna Nangia, University of Colorado, Boulder**
++ Abstract Speaker - **Todd Stukenberg, PhD, University of Virginia**
   
 **10:40 – 11:00 am**		Coffee Break 
 
