@@ -21,7 +21,7 @@ layout: page
 + Invited Speaker - **Pamela Becker, MD, PhD, City of Hope**
 + Invited Speaker - **Soledad Sosa, PhD, Albert Einstein College of Medicine**
 + Abstract Speaker - **Elizabeth Brunk, PhD, University of North Carolina**
-+ Abstract Speaker - **Mohit Kumar Jolly, PhD, Indian Institute of Science**
++ Abstract Speaker - **Michelle Barbeau, University of Virginia**
 
 **11:30 – 1:00 pm**		Lunch + “Meet the PIs” Lunch Tables
 
@@ -40,12 +40,12 @@ layout: page
 + **Amy E. Pomeray, PhD, University of North Carolina**
 + **Christian Meyer, PhD, University of Colorado, Boulder**
 + **Raghav Jain, PhD, Pacific Northwest National Lab**
++ **Wei He, PhD, Georgetown University**
 
 **4:50 – 5:00 pm**		Lightning talks from selected posters
 
-+ **Wei He, PhD, Georgetown University**
 + **Prasanna Vaddi, PhD, University of Colorado Anschutz Medical Campus**
-+ **Michelle Barbeau, University of Virginia**
++ **Janani Baskaran, Yale University**
 + **Ryan Schildcrout, University of Michigan**
 + **Victor Passanisi, University of Colorado, Boulder**
 
