@@ -25,6 +25,6 @@ layout: page
 - [Marc Birtwistle, PhD](https://www.clemson.edu/cecas/departments/chbe/people/birtwistle_m.html), Clemson University
 - [Andriy Marusyk, PhD](https://www.moffitt.org/research-science/researchers/andriy-marusyk/), Moffitt Cancer Center
 - [Rachel Gottschalk, PhD](https://www.isb.pitt.edu/people/faculty/rachel-gottschalk-phd), University of Pittsburgh
-- [Steven Cappell, PhD](https://ccr.cancer.gov/staff-directory/steven-d-cappell), National Cancer Institute
+
 
 This conference aims to bring together scientific leaders and up-and-coming investigators in cancer systems biology, building a thriving and collaborative field through sharing scientific advances. A report summarizing the 2016 meeting [is available in Cancer Research](http://cancerres.aacrjournals.org/content/76/23/6774). The program booklet from the 2018 meeting [is available here](/public/sacb%202018%20online%20booklet%20final.pdf). The schedule for the 2020 meeting [is available here](https://sacbmeeting.org/2020/schedule). The conference booklet for the 2022 meeting [is available here](/public/SACB_2022_booklet_FINAL.pdf)
