@@ -37,7 +37,7 @@ layout: page
 **3:10 – 4:50 pm**		Session #3: SACB Postdoc Spotlight
 
 + **John Metzcar, PhD, University of Minnesota**
-+ **Amy E. Pomeray, PhD, University of North Carolina**
++ **Amy E. Pomeroy, PhD, University of North Carolina**
 + **Christian Meyer, PhD, University of Colorado, Boulder**
 + **Raghav Jain, PhD, Pacific Northwest National Lab**
 + **Wei He, PhD, Georgetown University**
@@ -48,6 +48,8 @@ layout: page
 + **Janani Baskaran, Yale University**
 + **Ryan Schildcrout, University of Michigan**
 + **Victor Passanisi, University of Colorado, Boulder**
++ **Adriana Del Pino Herrera, University of Florida**
++ **Angela Bowen, PhD, Sage Bionetworks**
 
 **5:00 – 6:30 pm**		Poster session A (with refreshments and snacks)
 
@@ -62,7 +64,6 @@ layout: page
 
 + Invited Speaker - **Paolo Provenzano, PhD, University of Minnesota**
 + Invited Speaker - **Melissa Davis, PhD, Morehouse School of Medicine**
-+ Abstract Speaker - **Zuzana Tatarova, PhD, DKFZ German Cancer Research Center**
 + Abstract Speaker - **Adam MacLean, PhD, University of Southern California**
 
 **10:40 – 10:50 am**		Lightning talks from selected posters 
@@ -100,7 +101,7 @@ layout: page
 **9:00 – 10:40 am**		Session #7: Targeting Signal Transduction
 
 + Invited Speaker - **Rachel Gottschalk, PhD, University of Pittsburgh**
-+ Invited Speaker - **Steven Cappell, PhD, National Cancer Institute**
++ Invited Speaker - **Michael Lee, PhD, UMass Chan Medical School**
 + Abstract Speaker - **Varuna Nangia, University of Colorado, Boulder**
 + Abstract Speaker - **Todd Stukenberg, PhD, University of Virginia**
   
