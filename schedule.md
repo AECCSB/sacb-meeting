@@ -65,6 +65,7 @@ layout: page
 + Invited Speaker - **Paolo Provenzano, PhD, University of Minnesota**
 + Invited Speaker - **Melissa Davis, PhD, Morehouse School of Medicine**
 + Abstract Speaker - **Adam MacLean, PhD, University of Southern California**
++ Abstract Speaker - **David Sanin, PhD, Johns Hopkins University**
 
 **10:40 – 10:50 am**		Lightning talks from selected posters 
 + **Rebecca A. Bekker, PhD, University of Southern California**
