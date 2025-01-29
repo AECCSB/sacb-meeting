@@ -81,7 +81,7 @@ layout: page
 **1:30 – 3:10 pm**		Session #5: Systems Pharmacology
 
 + Invited Speaker - **Marc Birtwistle, PhD, Clemson University**
-+ Invited Speaker - **Andriy Marusuyk, PhD, Moffitt Cancer Center**
++ Invited Speaker - **Andriy Marusyk, PhD, Moffitt Cancer Center**
 + Abstract Speaker - **Leonard A. Harris, PhD, University of Arkansas**
 + Abstract Speaker - **Emily Bozich, PhD, UCLA**
  
