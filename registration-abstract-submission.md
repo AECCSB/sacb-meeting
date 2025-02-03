@@ -5,7 +5,7 @@ layout: page
 
 ### Abstract Submission
 
-[Abstract submission](https://forms.gle/ArHFcKNvtM5DeQDEA) for poster presentations only is open through Jan. 17, 2024
+Abstract submission is now closed
 
 ### SACB Scholars Submission
 
