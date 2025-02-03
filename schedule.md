@@ -7,7 +7,7 @@ layout: page
 
 ## Sunday, February 9, 2025
 
-**7:00 – 10:00 pm**	Networking Mixer
+**4:00 – 8:00 pm**	Networking Mixer (Cedar Creek Pub)
 
 ## Monday, February 10, 2025
 **7:30 – 8:20 am**		Breakfast
@@ -53,7 +53,7 @@ layout: page
 
 **5:00 – 6:30 pm**		Poster session A (with refreshments and snacks)
 
-**6:30 – 7:30 pm**		ACSB business meeting (open to all)
+**6:30 – 7:30 pm**		ACSB / future of SACB conversation (open to all)
 		
   Dinner on your own
 
@@ -90,8 +90,8 @@ layout: page
 **4:40 – 6:20 pm**		Session # 6: Health Equity for AI in Cancer Systems Biology
 
 + Invited Speaker - **Tina Hernandez-Boussard, PhD, Stanford Medicine**
-+ Invited Speaker - **James W Lillard, PhD, MBA, Morehouse School of Medicine**
-+ Panel Discussion
++ Invited Speaker - **Curtis Henry, PhD, University of Colorado Anschutz Medical Campus**
++ Discussion
 
 **6:30 – 8:30 pm**		Conference Dinner
 
