@@ -3,10 +3,10 @@ title: Key Dates
 layout: page
 ---
 
-- **Sept. 1, 2024** – [Abstract submission](https://forms.gle/UXhGmTXK7HDtKi9p9) open
-- **Nov. 8, 2024** - [Abstract submission](https://forms.gle/UXhGmTXK7HDtKi9p9) close
+- **Sept. 1, 2024** – Abstract submission open
+- **Nov. 8, 2024** - Abstract submission close
 - **Dec. 1, 2024** - Notifications to be sent out for abstracts selected for full talks.
-- **Dec 2, 2024** - [SACB Scholars submission](https://forms.gle/MjJjLuBP6D2ZhBHG8) closes
+- **Dec 2, 2024** - SACB Scholars submission closes
 - **Dec 9, 2025** - [Registration Open](https://cvent.me/747BO2)
 - **Jan 24, 2025** - Registration deadline
 - **Feb. 10-12, 2025** – SACB meeting
