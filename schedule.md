@@ -7,7 +7,7 @@ layout: page
 
 ## Sunday, February 9, 2025
 
-**4:00 – 8:00 pm**	Networking Mixer (Cedar Creek Pub)
+**4:00 – 8:00 pm**	Networking Mixer (Benson Hotel)
 
 ## Monday, February 10, 2025
 **7:30 – 8:20 am**		Breakfast
