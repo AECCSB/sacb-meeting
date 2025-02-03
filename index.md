@@ -21,7 +21,7 @@ layout: page
 - [Paolo Provenzano, PhD](https://cse.umn.edu/bme/paolo-provenzano), University of Minnesota
 - [Melissa Davis, PhD](https://www.mbdavislab.org/), Morehouse School of Medicine
 - [Tina Hernandez-Boussard, PhD](https://med.stanford.edu/boussard-lab/people/tina_hernandez_boussard.html), Stanford Medicine
-- [Curtis Henry, PhD] (https://medschool.cuanschutz.edu/immunology-and-microbiology/faculty/primary-faculty/curtis-henry--phd), University of Colorado Anschutz Medical Campus
+- [Curtis Henry, PhD](https://medschool.cuanschutz.edu/immunology-and-microbiology/faculty/primary-faculty/curtis-henry--phd), University of Colorado Anschutz Medical Campus
 - [Marc Birtwistle, PhD](https://www.clemson.edu/cecas/departments/chbe/people/birtwistle_m.html), Clemson University
 - [Andriy Marusyk, PhD](https://www.moffitt.org/research-science/researchers/andriy-marusyk/), Moffitt Cancer Center
 - [Rachel Gottschalk, PhD](https://www.isb.pitt.edu/people/faculty/rachel-gottschalk-phd), University of Pittsburgh
