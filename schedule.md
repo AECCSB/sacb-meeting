@@ -83,7 +83,7 @@ layout: page
 + Invited Speaker - **Marc Birtwistle, PhD, Clemson University**
 + Invited Speaker - **Andriy Marusyk, PhD, Moffitt Cancer Center**
 + Abstract Speaker - **Leonard A. Harris, PhD, University of Arkansas**
-+ Abstract Speaker - **Emily Bozich, PhD, UCLA**
++ Abstract Speaker - **Emily Bozich, UCLA**
  
 **3:10 – 4:40 pm**		Coffee Break
 
