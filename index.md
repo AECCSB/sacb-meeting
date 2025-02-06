@@ -8,7 +8,7 @@ layout: page
 
 **The Systems Approaches to Cancer Biology conference will take place February 10-12, 2025 at the University of Colorado Anschutz Medical Campus in Aurora, CO.**
 
-**The (SACB 2025 meeting booklet)[/public/SACB_2025_booklet.pdf] is now available.**
+**The [SACB 2025 meeting booklet](/public/SACB_2025_booklet.pdf) is now available.**
 
 **Keynote Speakers**
 - [Doug Lauffenburger, PhD](https://be.mit.edu/directory/douglas-a-lauffenburger)
