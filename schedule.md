@@ -108,7 +108,7 @@ layout: page
   
 **10:40 – 11:00 am**		Coffee Break 
 
-**11:00 am – 12:00 pm**	Closing Keynote - **Douglas Lauffenburger, PhD, MIT**
+**11:00 am – 12:00 pm**	Closing Keynote - **Melissa Kemp, PhD, Georgia Tech**
 
 **12:00 pm**		Closing remarks by **Paul Macklin, PhD, Indiana University**
 
