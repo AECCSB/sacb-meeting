@@ -24,6 +24,7 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 - Stacey Finley, University of Southern California
 - James Costello, University of Colorado Anschutz Medical Campus
 - Matt Lazzara, University of Virginia
+- Andriy Marusyk, Moffitt Cancer Center
 - Nick Graham, University of Southern California
 - Edward Evans, Jr., University of Colorado Anschutz Medical Campus
 - Jorge Gómez Tejeda Zañudo, Broad Institute
