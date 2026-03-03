@@ -12,12 +12,13 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 
 #### Conference Chairs
 
-- [Melissa Kemp, PhD](https://kemp.gatech.edu/), Georgia Tech
+- [Michael Yaffe, MD, PhD](https://ki.mit.edu/people/faculty/michael-yaffe), MIT
 - [Paul Macklin, PhD](http://mathcancer.org/), Indiana University
-- [Michael Lee, PhD](https://www.umassmed.edu/lee-lab/), UMass Chan Medical School
+- [Amy Brock, PhD](https://www.bme.utexas.edu/people/faculty-directory/brock), University of Texas at Austin
   
 #### Organizing Committee
 
+- Meghan Ferrall-Fairbanks, University of Florida
 - Brian Joughin, MIT
 - Sara Gosline, Pacific Northwest National Laboratory
 - Stacey Finley, University of Southern California
@@ -26,5 +27,6 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 - Nick Graham, University of Southern California
 - Edward Evans, Jr., University of Colorado Anschutz Medical Campus
 - Jorge Gómez Tejeda Zañudo, Broad Institute
-- Robert Beckman, Georgetown University
-- Sarah Groves, University of Virginia
+- Marc Birtwistle, Clemson University
+- James Park, Tulane University
+- Matthew Poskus, University of Pittsburgh
