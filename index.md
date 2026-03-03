@@ -6,7 +6,7 @@ layout: page
 ![Network diagram](/public/img/network_diag.png)
 
 
-**The Systems Approaches to Cancer Biology conference will take place January 21-23, 2027 at the University of Colorado Anschutz Medical Campus in Aurora, CO.**
+**The Systems Approaches to Cancer Biology conference will take place January 20-23, 2027 at the University of Colorado Anschutz Medical Campus in Aurora, CO.**
 
 **Keynote Speakers**
 - [Trey Ideker, PhD](https://idekerlab.ucsd.edu/trey-ideker/)
