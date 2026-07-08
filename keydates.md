@@ -15,7 +15,7 @@ The conference will be held in the Elliman Conference Center in the Anschutz Hea
 
 For those of you traveling to Denver, please note that you can conveniently use ride-share apps to get to your hotels from Denver International Airport. This will ensure a smooth and hassle-free start to your conference experience.
 
-We are pleased to offer a special University rate for conference attendees at The Benson Hotel ($149), conveniently located on campus where the conference is being held. To take advantage of this rate, please contact Brenna Buckley at bbuckley@thebensonhotel.com Enjoy your stay in comfort and style at one of the city's premier hotels!
+We are pleased to offer a special University rate for conference attendees at [The Benson Hotel](https://thebensonhotel.com/) ($149), conveniently located on campus where the conference is being held. To take advantage of this rate, please contact Brenna Buckley at bbuckley@thebensonhotel.com Enjoy your stay in comfort and style at one of the city's premier hotels!
 
 For any and all travel questions please do not hesitate to reach out to Ashley Boshoven at Ashley.boshoven@cuanschutz.edu
 
