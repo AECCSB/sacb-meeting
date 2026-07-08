@@ -3,12 +3,6 @@ title: Key Dates
 layout: page
 ---
 
-Important dates will be posted soon.
-
-The conference will be held in the Elliman Conference Center in the Anschutz Health Science Building on the University of Colorado Anschutz Medical Campus in Aurora, CO. 
-
-For those of you traveling to Denver, please note that you can conveniently use ride-share apps to get to your hotels from Denver International Airport. This will ensure a smooth and hassle-free start to your conference experience.
-
 - **July 6, 2026** – Abstract submission open. Submit [here](https://docs.google.com/forms/d/1mGvkJUHD8FZdnmkLE5V4YDmJ2GXVFJjVmfz7h9ZO58c/edit). 
 - **July 6, 2026** - SACB Scholars application opne. Submit [here](https://docs.google.com/forms/d/1iWr7sNkDvHPWKeXo6LVGnMptQC8zdpnJL60zegkRA5U/edit). 
 - **Oct. 16, 2026** - Abstract submissions and SACB Scholars applications close.
