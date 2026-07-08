@@ -4,7 +4,7 @@ layout: page
 ---
 
 - **July 6, 2026** – Abstract submission open. Submit [here](https://docs.google.com/forms/d/1mGvkJUHD8FZdnmkLE5V4YDmJ2GXVFJjVmfz7h9ZO58c/edit). 
-- **July 6, 2026** - SACB Scholars application opne. Submit [here](https://docs.google.com/forms/d/1iWr7sNkDvHPWKeXo6LVGnMptQC8zdpnJL60zegkRA5U/edit). 
+- **July 6, 2026** - [SACB Scholars](https://sacbmeeting.org/scholars.html) application opne. Submit [here](https://docs.google.com/forms/d/1iWr7sNkDvHPWKeXo6LVGnMptQC8zdpnJL60zegkRA5U/edit). 
 - **Oct. 16, 2026** - Abstract submissions and SACB Scholars applications close.
 - **Nov. 2026** - Notifications to be sent out for abstracts selected for full talks, and for SACB Scholars.
 - **Jan. 20-23, 2027** – SACB meeting
