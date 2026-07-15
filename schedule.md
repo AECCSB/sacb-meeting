@@ -25,10 +25,10 @@ layout: page
   
 **11:30 – 1:00 pm**		Lunch + “Meet the PIs” Lunch Tables
 
-**1:00 – 2:40 pm**		Session #2: Immunology & Host-Tumor Interactions
+**1:00 – 2:40 pm**		Session #2: Metabolism Across Scales
 
-+ Invited Speaker - **Heiko Enderling, PhD, FSMB, Moffitt Cancer Center**
-+ Invited Speaker - **Alexandra Naba, PhD, University of Illinois, Chicago**
++ Invited Speaker - **Deepak Nagrath, PhD, University of Michigan**
++ Invited Speaker - **Katherine Aird, PhD, The Wistar Institute**
 + Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
 
@@ -73,10 +73,10 @@ layout: page
 
 **3:10 – 4:40 pm**		Coffee Break
 
-**4:40 – 6:20 pm**		Session #6: Metabolism Across Scales
+**4:40 – 6:20 pm**		Session #6: Immunology & Host-Tumor Interactions
 
-+ Invited Speaker - **Deepak Nagrath, PhD, University of Michigan**
-+ Invited Speaker - **Katherine Aird, PhD, The Wistar Institute**
++ Invited Speaker - **Heiko Enderling, PhD, FSMB, Moffitt Cancer Center**
++ Invited Speaker - **Alexandra Naba, PhD, University of Illinois, Chicago*
 + Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
 
