@@ -90,7 +90,7 @@ layout: page
 
 + Invited Speaker - **Michelle Mendoza, PhD, University of Utah**
 + Invited Speaker - **Jared Toettcher, PhD, Princeton University**
-+ + Abstract Selected Speaker - **TBD**
++ Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
   
 **10:40 – 11:00 am**		Coffee Break 
