@@ -52,10 +52,10 @@ layout: page
 ## Friday, January 22, 2027
 **8:00 – 9:00 am**		Breakfast
 
-**9:00 – 10:40 am**		Session #4: Targeting Signal Transduction
+**9:00 – 10:40 am**		Session #4: Tumor Heterogeneity and Metastasis
 
-+ Invited Speaker - **Michelle Mendoza, PhD, University of Utah**
-+ Invited Speaker - **Jared Toettcher, PhD, Princeton University**
++ Invited Speaker - **David Basanta, PhD, Moffitt Cancer Center**
++ Invited Speaker - **Yogesh Goyal, PhD, Northwestern University**
 + Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
 
@@ -86,11 +86,11 @@ layout: page
 
 **8:00 – 9:00 am**		Breakfast
 
-**9:00 – 10:40 am**		Session #7: Tumor Heterogeneity and Metastasis
+**9:00 – 10:40 am**		Session #7: Targeting Signal Transduction
 
-+ Invited Speaker - **David Basanta, PhD, Moffitt Cancer Center**
-+ Invited Speaker - **Yogesh Goyal, PhD, Northwestern University**
-+ Abstract Selected Speaker - **TBD**
++ Invited Speaker - **Michelle Mendoza, PhD, University of Utah**
++ Invited Speaker - **Jared Toettcher, PhD, Princeton University**
++ + Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
   
 **10:40 – 11:00 am**		Coffee Break 
