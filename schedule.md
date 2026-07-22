@@ -75,7 +75,7 @@ layout: page
 
 **4:40 – 6:20 pm**		Session #6: Immunology & Host-Tumor Interactions
 
-+ Invited Speaker - **Heiko Enderling, PhD, FSMB, Moffitt Cancer Center**
++ Invited Speaker - **Heiko Enderling, PhD, FSMB, MD Anderson Cancer Center**
 + Invited Speaker - **Alexandra Naba, PhD, University of Illinois, Chicago**
 + Abstract Selected Speaker - **TBD**
 + Abstract Selected Speaker - **TBD**
