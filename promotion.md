@@ -1,5 +1,5 @@
 ---
-title: SACB 2025 Sponsors
+title: SACB 2027 Sponsors
 layout: page
 ---
 We would like to thank the generous support from our sponsors.
