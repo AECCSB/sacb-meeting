@@ -48,6 +48,20 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Check internal links, images and scripts
+        run: bundle exec htmlproofer ./_site --disable-external --no-enforce-https
+        env:
+          LC_ALL: C.UTF-8
+      - name: Check external links (advisory)
+        # External sites often block or time out requests from GitHub runners, so
+        # failures here are reported in the log but do not fail the build.
+        # 403/429 are ignored as bot-blocking.
+        continue-on-error: true
+        run: |
+          check() { bundle exec htmlproofer ./_site --no-enforce-https --ignore-status-codes 403,429; }
+          check || { echo "Retrying link check once"; check; }
+        env:
+          LC_ALL: C.UTF-8
       - name: Upload artifact
         if: github.ref == 'refs/heads/master'
         # Automatically uploads an artifact from the './_site' directory by default

@@ -12,8 +12,8 @@ The AECCSB mission is to foster, promote and advocate for cancer systems biology
 
 #### Conference Chairs
 
-- [Doug Lauffenburger](http://web.mit.edu/dallab/)
-- [Sylvia Plevritis](http://med.stanford.edu/plevritis.html)
+- Doug Lauffenburger
+- Sylvia Plevritis
 - [Sandy Anderson](https://labpages.moffitt.org/andersona/)
 
 #### Organizing Committee
