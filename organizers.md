@@ -13,7 +13,7 @@ The ACSB mission is to foster, promote and advocate for cancer systems biology a
 #### Conference Chairs
 
 - [Michael Yaffe, MD, PhD](https://ki.mit.edu/people/faculty/michael-yaffe), MIT
-- [Paul Macklin, PhD](http://mathcancer.org/), Indiana University
+- [Paul Macklin, PhD](http://mathcancer.org/), Michigan State University
 - [Amy Brock, PhD](https://www.bme.utexas.edu/people/faculty-directory/brock), University of Texas at Austin
   
 #### Organizing Committee
