@@ -49,8 +49,11 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Check links with html-proofer
-        # Many sites return 403/429 to automated requests, so those are not treated as broken
-        run: bundle exec htmlproofer ./_site --no-enforce-https --ignore-status-codes 403,429
+        # Many sites return 403/429 to automated requests, so those are not treated as broken.
+        # External sites occasionally time out, so retry once before failing.
+        run: |
+          check() { bundle exec htmlproofer ./_site --no-enforce-https --ignore-status-codes 403,429; }
+          check || { echo "Retrying link check once"; check; }
         env:
           LC_ALL: C.UTF-8
       - name: Upload artifact
