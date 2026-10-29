@@ -7,6 +7,7 @@ url:              https://sacbmeeting.org
 exclude:
   - README.md
   - Gemfile
+  - Gemfile.lock
 
 sass:
   sass_dir: public/css
