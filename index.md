@@ -9,7 +9,7 @@ layout: page
 **The Systems Approaches to Cancer Biology conference will take place January 20-23, 2027 at the University of Colorado Anschutz Medical Campus in Aurora, CO.**
 
 **Keynote Speakers**
-- [Trey Ideker, PhD](https://idekerlab.ucsd.edu/trey-ideker/), UCSD
+- [Trey Ideker, PhD](https://idekerlab.ucsd.edu/trey-ideker/), UCSD, University of Oxford
 - [Elaine Mardis, PhD](https://www.nationwidechildrens.org/find-a-doctor/profiles/elaine-r-mardis), National Children's Hospital
 
 **Invited Speakers**
