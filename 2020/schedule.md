@@ -65,7 +65,7 @@ The 2020 meeting will be held November 11–13, 2020 in a virtual format. More d
 **Invited speaker:** [Pamela Kreeger](https://www.kreegerlab.org/), University of Wisconsin-Madison  
 "Systems approaches to ovarian cancer metastasis"
 
-**Invited speaker:** [Melody Swartz](https://pme.uchicago.edu/swartz_group/), University of Chicago  
+**Invited speaker:** Melody Swartz, University of Chicago  
 "Systems approaches to modeling the tumor-lymph-immune interface"
 
 **Selected Abstract:** Dimitrios Sidiropoulos, Johns Hopkins University  

@@ -5,7 +5,7 @@ layout: page
 
 ### Abstract Submission
 
-This meeting aims to bring together the community of researchers applying systems methods to better understand and treat cancer. We welcome [abstract submissions](https://redcap.sagebase.org/redcap/surveys/?s=T9YL4X44KF) on research related to the [conference themes](https://sacbmeeting.org/schedule.html). While the deadline has passed for abstracts to be considered for talks, we continue to welcome abstracts for consideration as poster presentations.
+This meeting aims to bring together the community of researchers applying systems methods to better understand and treat cancer. We welcome abstract submissions on research related to the [conference themes](https://sacbmeeting.org/schedule.html). While the deadline has passed for abstracts to be considered for talks, we continue to welcome abstracts for consideration as poster presentations.
 
 **Abstract submission is now closed.**
 

@@ -53,7 +53,7 @@ With coffee
 
 ###### Translational Systems Biology (3:45 – 5:25pm)
 
-  * Invited Speaker: [Andrea Bild](http://pharmacy.utah.edu/pharmtox/faculty/bild.htm): "Combating Subclonal Evolution of Resistant Cancer Phenotypes"
+  * Invited Speaker: Andrea Bild: "Combating Subclonal Evolution of Resistant Cancer Phenotypes"
   * John Shen: "A network of deeply conserved synthetic-lethal interactions for exploration of precision cancer therapy"
   * Wendy Fantl: "Molecular heterogeneity of ovarian cancer revealed by high-dimensional mass cytometric profiling"
   * Jiyang Yu: "Systems biology and functional genomics identifies HDAC6 as a non-oncogene addiction hub for inflammatory breast cancers"
@@ -73,7 +73,7 @@ With coffee
 
 ###### Tumor Systems Biology II: Microenvironment & Immunotherapy (9:00 – 10:40 am)
 
-  * Invited Speaker: [Yvonne Chen](http://yvchen.bol.ucla.edu/): "Engineering Smarter and Stronger T Cells for Cancer Immunotherapy"
+  * Invited Speaker: Yvonne Chen: "Engineering Smarter and Stronger T Cells for Cancer Immunotherapy"
   * Molly Carroll: "Decoding the role of macrophages in ovarian cancer metastasis through a novel in vitro model"
   * Kevin Haigis: "In vivo systems analysis of TNF-a responses in the intestinal epithelium"
   * Stacey Finley: "Predictive model of angiogenic factors in breast tumor tissue"
@@ -95,7 +95,7 @@ With coffee
 
 ###### NCI Session 1 (3:45 – 5:15pm)
 
-  * Invited Speaker: [Anne-Lise Børresen-Dale](http://ous-research.no/borresen/): "Multilevel molecular analyses in breast cancer: gauging inter- and intra-tumor heterogeneity and elucidating its role in treatment response."
+  * Invited Speaker: Anne-Lise Børresen-Dale: "Multilevel molecular analyses in breast cancer: gauging inter- and intra-tumor heterogeneity and elucidating its role in treatment response."
   * Invited Speaker: [Aaron Meyer](http://asmlab.org/): "Looking across resistance mechanisms to identify molecular commonalities and precision therapy approaches"
 
 ###### Lobster Dinner (5:30 – 7:00pm)
@@ -113,7 +113,7 @@ With coffee
 
 ###### Signaling networks in Cancer (9:00 – 10:40 am)
 
-  * Invited Speaker: [Kevin Janes](http://bme.virginia.edu/janes/index.html): "Pharmacologic Versus Genetic Targeting of Signaling Networks"
+  * Invited Speaker: Kevin Janes: "Pharmacologic Versus Genetic Targeting of Signaling Networks"
   * Maximilian Billman: "State-dependent genetic interactions identify switches in signaling networks"
   * Jacob Stewart-Ornstein: "Causes and consequences of p53 signaling dynamics in tissues and tumors"
   * Alexis Barr: "A dynamical framework for the all-or-none G1/S transition"
@@ -121,4 +121,4 @@ With coffee
 
 ###### Keynote  (11:00 – 12:00pm)
 
-[Gordon B. Mills](http://faculty.mdanderson.org/Gordon_Mills/): "Systems Approach to Cancer"
+Gordon B. Mills: "Systems Approach to Cancer"
