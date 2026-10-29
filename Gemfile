@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll-sitemap'
-gem 'jekyll-archives'
-gem 'kramdown'
-gem 'jekyll'
+ruby '>= 3.3'
+
+gem 'jekyll', '~> 4.4'
+gem 'kramdown', '~> 2.5'
+gem 'jekyll-sitemap', '~> 1.4'
+gem 'jekyll-archives', '~> 2.3'
