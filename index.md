@@ -10,7 +10,7 @@ layout: page
 
 **Keynote Speakers**
 - [Trey Ideker, PhD](https://idekerlab.ucsd.edu/trey-ideker/), UCSD, University of Oxford
-- [Elaine Mardis, PhD](https://www.nationwidechildrens.org/find-a-doctor/profiles/elaine-r-mardis), National Children's Hospital
+- [Elaine Mardis, PhD](https://www.nationwidechildrens.org/find-a-doctor/profiles/elaine-r-mardis), Nationwide Children's Hospital
 
 **Invited Speakers**
 - [David Basanta, PhD](https://lab.moffitt.org/cancerevo/), Moffitt Cancer Center
