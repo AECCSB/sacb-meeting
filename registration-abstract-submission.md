@@ -30,8 +30,6 @@ SACB Scholar submission is now closed. Thank you for your interest in the meetin
 We are accepting applications for the 2027 SACB Scholars Program, which offers travel fellowships covering travel, lodging, food, and conference costs, along with a peer mentor, to boost early-career trainee participation in cancer systems biology. Undergraduates, graduate students, and postdocs in STEM or medical fields, including adjacent quantitative disciplines—are encouraged to apply, with no prior cancer systems biology experience required. Instead of an abstract, applicants submit a brief essay on their interest in the field, and priority is given to U.S. applicants due to limited funding. **The application deadline is Friday, October 16, 2026, with notifications sent by late November.**
 
 
-### Registration
 
-Registration is not yet open.
 
 For inquiries about the meeting please contact us at [contact@sacbmeeting.org](mailto:contact@sacbmeeting.org).
